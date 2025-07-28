@@ -18,7 +18,7 @@ If you discover a security vulnerability in **Better Than OBS**, please **do not
 Instead, contact me directly and privately so I can investigate and patch the issue as soon as possible.
 
 📧 **Preferred Contact**:  
-[YourEmail@example.com] *(replace this with your actual email address or preferred method)*
+[arifkerem71@gmail.com] 
 
 If the vulnerability affects audio privacy, screen content, or application permissions, please describe it in as much detail as possible (steps to reproduce, OS version, etc.).
 
