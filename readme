@@ -6,6 +6,8 @@
 
 I took inspiration from OBS Studio, but I’ve added my own ideas and enhancements in areas I believed needed improvement. That’s why I chose the name **Better Than OBS** — a bit bold, but meant in good humor.
 
+I actually made this application to record the screen while listening to music. I don't want to add a ton of unnecessary features. The reason I claim it is better than OBS is because I didn't want to mess with the virtual audio system on my computer. OBS often requires complex configuration when trying to exclude specific application audio (like Spotify), which was frustrating. This app avoids all of that by keeping it simple and focused.
+
 This project is still under development, and some parts are incomplete. I'm aware of the current bugs and missing features. In particular, the logging and debugging process took a lot of time, but I believe it helped build a more solid foundation.
 
 ## 🔧 Planned Features
