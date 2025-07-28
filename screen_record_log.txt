@@ -1,0 +1,1129 @@
+2025-07-27 10:23:29,602 - INFO - Ayarlar ikonu yüklendi: d:\İstanbul Uni Ders Notlarım\assets\images\settings.png
+2025-07-27 10:28:11,624 - INFO - Ayarlar ikonu yüklendi: d:\İstanbul Uni Ders Notlarım\assets\images\settings.png
+2025-07-27 14:54:07,488 - INFO - Arka plan görseli yüklendi: d:\İstanbul Uni Ders Notlarım\assets\images\background.png
+2025-07-27 14:54:07,492 - INFO - Ayarlar ikonu yüklendi: d:\İstanbul Uni Ders Notlarım\assets\images\settings.png
+2025-07-27 14:54:07,710 - INFO - Bulunan mikrofonlar: ['Microsoft Sound Mapper - Input', 'SteelSeries Sonar - Microphone ', 'Mikrofon (2- Arctis 7P+)']
+2025-07-27 14:54:55,908 - INFO - Arka plan görseli yüklendi: d:\İstanbul Uni Ders Notlarım\assets\images\background.png
+2025-07-27 14:54:55,913 - INFO - Ayarlar ikonu yüklendi: d:\İstanbul Uni Ders Notlarım\assets\images\settings.png
+2025-07-27 14:54:56,123 - INFO - Bulunan mikrofonlar: ['Microsoft Sound Mapper - Input', 'SteelSeries Sonar - Microphone ', 'Mikrofon (2- Arctis 7P+)']
+2025-07-27 14:54:56,130 - INFO - Önizleme thread'i başlatıldı.
+2025-07-27 14:57:38,324 - INFO - Arka plan görseli yüklendi: d:\İstanbul Uni Ders Notlarım\assets\images\background.png
+2025-07-27 14:57:38,329 - INFO - Ayarlar ikonu yüklendi: d:\İstanbul Uni Ders Notlarım\assets\images\settings.png
+2025-07-27 14:57:38,533 - INFO - Bulunan mikrofonlar: ['Microsoft Sound Mapper - Input', 'SteelSeries Sonar - Microphone ', 'Mikrofon (2- Arctis 7P+)']
+2025-07-27 14:58:57,848 - INFO - Arka plan görseli yüklendi: d:\İstanbul Uni Ders Notlarım\assets\images\background.png
+2025-07-27 14:58:57,853 - INFO - Ayarlar ikonu yüklendi: d:\İstanbul Uni Ders Notlarım\assets\images\settings.png
+2025-07-27 14:58:58,061 - INFO - Bulunan mikrofonlar: ['Microsoft Sound Mapper - Input', 'SteelSeries Sonar - Microphone ', 'Mikrofon (2- Arctis 7P+)']
+2025-07-27 14:58:58,068 - INFO - Önizleme thread'i başlatıldı.
+2025-07-27 14:59:30,765 - INFO - Canvas üzerinde alan seçimi başlatıldı.
+2025-07-27 14:59:38,775 - INFO - Canvas fare bırakıldı: (217, 542)
+2025-07-27 14:59:40,283 - INFO - Seçilen gerçek kayıt alanı: {'top': 27, 'left': 492, 'width': 906, 'height': 875}
+2025-07-27 14:59:40,285 - INFO - Canvas seçim işlemi tamamlandı.
+2025-07-27 14:59:42,354 - INFO - Kayıt alanı tüm ekrana sıfırlandı.
+2025-07-27 14:59:43,620 - INFO - Canvas üzerinde alan seçimi başlatıldı.
+2025-07-27 14:59:47,997 - INFO - Canvas fare bırakıldı: (609, 545)
+2025-07-27 14:59:51,005 - INFO - Seçilen gerçek kayıt alanı: {'top': 36, 'left': 22, 'width': 1360, 'height': 873}
+2025-07-27 14:59:51,006 - INFO - Canvas seçim işlemi tamamlandı.
+2025-07-27 15:00:01,273 - INFO - Kayıt alanı tüm ekrana sıfırlandı.
+2025-07-27 15:02:15,113 - INFO - Bulunan mikrofonlar: ['Microsoft Sound Mapper - Input', 'SteelSeries Sonar - Microphone ', 'Mikrofon (2- Arctis 7P+)']
+2025-07-27 15:02:15,124 - INFO - Önizleme thread'i başlatıldı.
+2025-07-27 15:02:15,239 - ERROR - Beklenmeyen önizleme hatası: OpenCV(4.12.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\resize.cpp:4211: error: (-215:Assertion failed) inv_scale_x > 0 in function 'cv::resize'
+
+2025-07-27 15:02:15,260 - INFO - Önizleme thread'i sonlandı.
+2025-07-27 15:02:27,480 - INFO - Kayıt FPS ayarı: 20
+2025-07-27 15:02:32,801 - INFO - Uygulama kapatılıyor...
+2025-07-27 15:02:32,801 - INFO - PyAudio terminate edildi.
+2025-07-27 15:02:32,821 - INFO - Uygulama başarıyla kapatıldı.
+2025-07-27 15:02:38,530 - INFO - Arka plan görseli yüklendi: d:\İstanbul Uni Ders Notlarım\assets\images\background.png
+2025-07-27 15:02:38,535 - INFO - Ayarlar ikonu yüklendi: d:\İstanbul Uni Ders Notlarım\assets\images\settings.png
+2025-07-27 15:02:38,731 - INFO - Bulunan mikrofonlar: ['Microsoft Sound Mapper - Input', 'SteelSeries Sonar - Microphone ', 'Mikrofon (2- Arctis 7P+)']
+2025-07-27 15:02:38,736 - INFO - Önizleme thread'i başlatıldı.
+2025-07-27 15:02:52,859 - INFO - Uygulama kapatılıyor...
+2025-07-27 15:02:52,859 - INFO - PyAudio terminate edildi.
+2025-07-27 15:02:52,880 - INFO - Uygulama başarıyla kapatıldı.
+2025-07-27 15:04:38,462 - INFO - Arka plan görseli yüklendi: d:\İstanbul Uni Ders Notlarım\assets\images\background.png
+2025-07-27 15:04:38,467 - INFO - Ayarlar ikonu yüklendi: d:\İstanbul Uni Ders Notlarım\assets\images\settings.png
+2025-07-27 15:04:38,661 - INFO - Bulunan mikrofonlar: ['Microsoft Sound Mapper - Input', 'SteelSeries Sonar - Microphone ', 'Mikrofon (2- Arctis 7P+)']
+2025-07-27 15:04:38,667 - INFO - Önizleme thread'i başlatıldı.
+2025-07-27 15:04:56,717 - INFO - Uygulama kapatılıyor...
+2025-07-27 15:04:56,718 - INFO - PyAudio terminate edildi.
+2025-07-27 15:04:56,738 - INFO - Uygulama başarıyla kapatıldı.
+2025-07-27 15:07:59,733 - INFO - Arka plan görseli yüklendi: d:\İstanbul Uni Ders Notlarım\assets\images\background.png
+2025-07-27 15:07:59,738 - INFO - Ayarlar ikonu yüklendi: d:\İstanbul Uni Ders Notlarım\assets\images\settings.png
+2025-07-27 15:07:59,942 - INFO - Bulunan mikrofonlar: ['Microsoft Sound Mapper - Input', 'SteelSeries Sonar - Microphone ', 'Mikrofon (2- Arctis 7P+)']
+2025-07-27 15:07:59,947 - INFO - Önizleme thread'i başlatıldı.
+2025-07-27 15:08:14,512 - INFO - Uygulama kapatılıyor...
+2025-07-27 15:08:14,513 - INFO - PyAudio terminate edildi.
+2025-07-27 15:08:14,536 - INFO - Uygulama başarıyla kapatıldı.
+2025-07-27 15:10:11,160 - INFO - Arka plan görseli yüklendi: d:\İstanbul Uni Ders Notlarım\assets\images\background.png
+2025-07-27 15:10:11,165 - INFO - Ayarlar ikonu yüklendi: d:\İstanbul Uni Ders Notlarım\assets\images\settings.png
+2025-07-27 15:10:11,367 - INFO - Bulunan mikrofonlar: ['Microsoft Sound Mapper - Input', 'SteelSeries Sonar - Microphone ', 'Mikrofon (2- Arctis 7P+)']
+2025-07-27 15:10:11,372 - INFO - Önizleme thread'i başlatıldı.
+2025-07-27 15:13:04,946 - INFO - Uygulama kapatılıyor...
+2025-07-27 15:13:04,947 - INFO - PyAudio terminate edildi.
+2025-07-27 15:13:04,967 - INFO - Uygulama başarıyla kapatıldı.
+2025-07-27 15:14:36,957 - INFO - Arka plan görseli yüklendi: d:\İstanbul Uni Ders Notlarım\assets\images\background.png
+2025-07-27 15:14:36,962 - INFO - Ayarlar ikonu yüklendi: d:\İstanbul Uni Ders Notlarım\assets\images\settings.png
+2025-07-27 15:14:37,172 - INFO - Bulunan mikrofonlar: ['Microsoft Sound Mapper - Input', 'SteelSeries Sonar - Microphone ', 'Mikrofon (2- Arctis 7P+)']
+2025-07-27 15:14:37,180 - INFO - Önizleme thread'i başlatıldı.
+2025-07-27 15:14:59,883 - INFO - Kayıt FPS ayarı: 30
+2025-07-27 15:15:26,373 - INFO - Uygulama kapatılıyor...
+2025-07-27 15:15:27,350 - INFO - PyAudio terminate edildi.
+2025-07-27 15:15:27,422 - INFO - Uygulama başarıyla kapatıldı.
+2025-07-27 15:22:33,587 - INFO - Arka plan görseli yüklendi: d:\İstanbul Uni Ders Notlarım\assets\images\background.png
+2025-07-27 15:22:33,593 - INFO - Ayarlar ikonu yüklendi: d:\İstanbul Uni Ders Notlarım\assets\images\settings.png
+2025-07-27 15:22:33,826 - INFO - Bulunan mikrofonlar: ['Microsoft Sound Mapper - Input', 'SteelSeries Sonar - Microphone ', 'Mikrofon (2- Arctis 7P+)']
+2025-07-27 15:22:33,835 - INFO - Önizleme thread'i başlatıldı.
+2025-07-27 15:22:59,156 - INFO - Uygulama kapatılıyor...
+2025-07-27 15:22:59,157 - INFO - PyAudio terminate edildi.
+2025-07-27 15:22:59,180 - INFO - Uygulama başarıyla kapatıldı.
+2025-07-27 16:36:03,117 - INFO - Arka plan görseli yüklendi: d:\İstanbul Uni Ders Notlarım\assets\images\background.png
+2025-07-27 16:36:03,122 - INFO - Ayarlar ikonu yüklendi: d:\İstanbul Uni Ders Notlarım\assets\images\settings.png
+2025-07-27 16:36:03,352 - INFO - Bulunan mikrofonlar: ['Microsoft Sound Mapper - Input', 'SteelSeries Sonar - Microphone ', 'Mikrofon (2- Arctis 7P+)']
+2025-07-27 16:36:03,360 - INFO - Önizleme thread'i başlatıldı.
+2025-07-27 16:43:24,648 - INFO - Arka plan görseli yüklendi: d:\İstanbul Uni Ders Notlarım\assets\images\background.png
+2025-07-27 16:43:24,653 - INFO - Ayarlar ikonu yüklendi: d:\İstanbul Uni Ders Notlarım\assets\images\settings.png
+2025-07-27 16:43:24,860 - INFO - Bulunan mikrofonlar: ['Microsoft Sound Mapper - Input', 'SteelSeries Sonar - Microphone ', 'Mikrofon (2- Arctis 7P+)']
+2025-07-27 16:43:24,867 - INFO - Önizleme thread'i başlatıldı.
+2025-07-27 16:43:58,922 - INFO - Arka plan görseli yüklendi: d:\İstanbul Uni Ders Notlarım\assets\images\background.png
+2025-07-27 16:43:58,927 - INFO - Ayarlar ikonu yüklendi: d:\İstanbul Uni Ders Notlarım\assets\images\settings.png
+2025-07-27 16:43:59,137 - INFO - Bulunan mikrofonlar: ['Microsoft Sound Mapper - Input', 'SteelSeries Sonar - Microphone ', 'Mikrofon (2- Arctis 7P+)']
+2025-07-27 16:43:59,144 - INFO - Önizleme thread'i başlatıldı.
+2025-07-27 16:46:02,125 - INFO - Arka plan görseli yüklendi: d:\İstanbul Uni Ders Notlarım\assets\images\background.png
+2025-07-27 16:46:02,130 - INFO - Ayarlar ikonu yüklendi: d:\İstanbul Uni Ders Notlarım\assets\images\settings.png
+2025-07-27 16:46:02,336 - INFO - Bulunan mikrofonlar: ['Microsoft Sound Mapper - Input', 'SteelSeries Sonar - Microphone ', 'Mikrofon (2- Arctis 7P+)']
+2025-07-27 16:46:02,345 - INFO - Önizleme thread'i başlatıldı.
+2025-07-27 16:46:06,953 - INFO - Uygulama kapatılıyor...
+2025-07-27 16:46:06,953 - INFO - PyAudio terminate edildi.
+2025-07-27 16:46:07,005 - INFO - Uygulama başarıyla kapatıldı.
+2025-07-27 16:48:47,553 - INFO - Arka plan görseli yüklendi: d:\İstanbul Uni Ders Notlarım\assets\images\background.png
+2025-07-27 16:48:47,558 - INFO - Ayarlar ikonu yüklendi: d:\İstanbul Uni Ders Notlarım\assets\images\settings.png
+2025-07-27 16:48:47,755 - INFO - Bulunan mikrofonlar: ['Microsoft Sound Mapper - Input', 'SteelSeries Sonar - Microphone ', 'Mikrofon (2- Arctis 7P+)']
+2025-07-27 16:48:47,764 - INFO - Önizleme thread'i başlatıldı.
+2025-07-27 16:52:48,434 - INFO - Arka plan görseli yüklendi: d:\İstanbul Uni Ders Notlarım\assets\images\background.png
+2025-07-27 16:52:48,439 - INFO - Ayarlar ikonu yüklendi: d:\İstanbul Uni Ders Notlarım\assets\images\settings.png
+2025-07-27 16:52:48,631 - INFO - Bulunan mikrofonlar: ['Microsoft Sound Mapper - Input', 'SteelSeries Sonar - Microphone ', 'Mikrofon (2- Arctis 7P+)']
+2025-07-27 16:52:48,644 - INFO - Önizleme thread'i başlatıldı.
+2025-07-27 16:56:14,022 - INFO - Arka plan görseli yüklendi: d:\İstanbul Uni Ders Notlarım\assets\images\background.png
+2025-07-27 16:56:14,027 - INFO - Ayarlar ikonu yüklendi: d:\İstanbul Uni Ders Notlarım\assets\images\settings.png
+2025-07-27 16:56:14,235 - INFO - Bulunan mikrofonlar: ['Microsoft Sound Mapper - Input', 'SteelSeries Sonar - Microphone ', 'Mikrofon (2- Arctis 7P+)']
+2025-07-27 16:56:14,250 - INFO - Önizleme thread'i başlatıldı.
+2025-07-27 16:56:25,502 - INFO - Uygulama kapatılıyor...
+2025-07-27 16:56:25,502 - INFO - PyAudio terminate edildi.
+2025-07-27 16:56:25,548 - INFO - Uygulama başarıyla kapatıldı.
+2025-07-27 16:57:25,494 - INFO - Arka plan görseli yüklendi: d:\İstanbul Uni Ders Notlarım\assets\images\background.png
+2025-07-27 16:57:25,499 - INFO - Ayarlar ikonu yüklendi: d:\İstanbul Uni Ders Notlarım\assets\images\settings.png
+2025-07-27 16:57:25,707 - INFO - Bulunan mikrofonlar: ['Microsoft Sound Mapper - Input', 'SteelSeries Sonar - Microphone ', 'Mikrofon (2- Arctis 7P+)']
+2025-07-27 16:57:25,721 - INFO - Önizleme thread'i başlatıldı.
+2025-07-27 16:57:41,428 - INFO - Uygulama kapatılıyor...
+2025-07-27 16:57:41,429 - INFO - PyAudio terminate edildi.
+2025-07-27 16:57:41,480 - INFO - Uygulama başarıyla kapatıldı.
+2025-07-27 17:00:42,997 - INFO - Arka plan görseli yüklendi: d:\İstanbul Uni Ders Notlarım\assets\images\background.png
+2025-07-27 17:00:43,003 - INFO - Ayarlar ikonu yüklendi: d:\İstanbul Uni Ders Notlarım\assets\images\settings.png
+2025-07-27 17:00:43,199 - INFO - Bulunan mikrofonlar: ['Microsoft Sound Mapper - Input', 'SteelSeries Sonar - Microphone ', 'Mikrofon (2- Arctis 7P+)']
+2025-07-27 17:00:43,213 - INFO - Önizleme thread'i başlatıldı.
+2025-07-27 17:04:16,005 - INFO - Arka plan görseli yüklendi: d:\İstanbul Uni Ders Notlarım\assets\images\background.png
+2025-07-27 17:04:16,010 - INFO - Ayarlar ikonu yüklendi: d:\İstanbul Uni Ders Notlarım\assets\images\settings.png
+2025-07-27 17:04:16,228 - INFO - Bulunan mikrofonlar: ['Microsoft Sound Mapper - Input', 'SteelSeries Sonar - Microphone ', 'Mikrofon (2- Arctis 7P+)']
+2025-07-27 17:04:16,247 - INFO - Önizleme thread'i başlatıldı.
+2025-07-27 17:08:08,246 - INFO - Arka plan görseli yüklendi: d:\İstanbul Uni Ders Notlarım\assets\images\background.png
+2025-07-27 17:08:08,251 - INFO - Ayarlar ikonu yüklendi: d:\İstanbul Uni Ders Notlarım\assets\images\settings.png
+2025-07-27 17:08:08,451 - INFO - Bulunan mikrofonlar: ['Microsoft Sound Mapper - Input', 'SteelSeries Sonar - Microphone ', 'Mikrofon (2- Arctis 7P+)']
+2025-07-27 17:08:08,464 - INFO - Önizleme thread'i başlatıldı.
+2025-07-27 17:11:59,835 - INFO - Kayıt FPS ayarı: 30
+2025-07-27 17:12:04,740 - INFO - Kayıt durdurma sinyali gönderildi.
+2025-07-27 17:12:53,094 - INFO - Uygulama kapatılıyor...
+2025-07-27 17:12:53,095 - INFO - PyAudio terminate edildi.
+2025-07-27 17:12:53,147 - INFO - Uygulama başarıyla kapatıldı.
+2025-07-27 17:19:42,283 - INFO - Arka plan görseli yüklendi: d:\İstanbul Uni Ders Notlarım\assets\images\background.png
+2025-07-27 17:19:42,288 - INFO - Ayarlar ikonu yüklendi: d:\İstanbul Uni Ders Notlarım\assets\images\settings.png
+2025-07-27 17:19:42,523 - INFO - Bulunan mikrofonlar: ['Microsoft Sound Mapper - Input', 'SteelSeries Sonar - Microphone ', 'Mikrofon (2- Arctis 7P+)']
+2025-07-27 17:19:42,536 - INFO - Önizleme thread'i başlatıldı.
+2025-07-27 17:20:12,352 - INFO - Uygulama kapatılıyor...
+2025-07-27 17:20:12,352 - INFO - PyAudio terminate edildi.
+2025-07-27 17:20:12,397 - INFO - Uygulama başarıyla kapatıldı.
+2025-07-27 17:25:17,432 - INFO - Arka plan görseli yüklendi: d:\İstanbul Uni Ders Notlarım\assets\images\background.png
+2025-07-27 17:25:17,437 - INFO - Ayarlar ikonu yüklendi: d:\İstanbul Uni Ders Notlarım\assets\images\settings.png
+2025-07-27 17:25:17,659 - INFO - Bulunan mikrofonlar: ['Microsoft Sound Mapper - Input', 'SteelSeries Sonar - Microphone ', 'Mikrofon (2- Arctis 7P+)']
+2025-07-27 17:25:17,675 - INFO - Önizleme thread'i başlatıldı.
+2025-07-28 01:25:05,062 - INFO - Arka plan görseli yüklendi: d:\İstanbul Uni Ders Notlarım\assets\images\background.png
+2025-07-28 01:25:05,069 - INFO - Ayarlar ikonu yüklendi: d:\İstanbul Uni Ders Notlarım\assets\images\settings.png
+2025-07-28 01:25:05,261 - INFO - Bulunan mikrofonlar: ['Microsoft Sound Mapper - Input', 'SteelSeries Sonar - Microphone ', 'Mikrofon (2- Arctis 7P+)']
+2025-07-28 01:25:05,277 - INFO - Önizleme thread'i başlatıldı.
+2025-07-28 01:25:26,858 - INFO - Uygulama kapatılıyor...
+2025-07-28 01:25:26,858 - INFO - PyAudio terminate edildi.
+2025-07-28 01:25:26,898 - INFO - Uygulama başarıyla kapatıldı.
+2025-07-28 01:33:25,875 - INFO - Arka plan görseli yüklendi: d:\İstanbul Uni Ders Notlarım\assets\images\background.png
+2025-07-28 01:45:40,288 - INFO - Kayıt dizini oluşturuldu: C:\Users\risva\EkranKayitlari
+2025-07-28 01:45:55,325 - INFO - Kayıt dizini oluşturuldu: C:\Users\risva\EkranKayitlari
+2025-07-28 01:46:02,305 - INFO - Önizleme thread'i zaten durdurulmuş.
+2025-07-28 01:46:03,246 - INFO - Önizleme thread'i zaten durdurulmuş.
+2025-07-28 01:46:04,050 - INFO - Önizleme thread'i zaten durdurulmuş.
+2025-07-28 01:46:04,440 - INFO - Önizleme thread'i zaten durdurulmuş.
+2025-07-28 01:46:22,685 - INFO - Arka plan görseli yüklendi: d:\İstanbul Uni Ders Notlarım\assets\images\background.png
+2025-07-28 01:46:22,689 - INFO - Ayarlar ikonu yüklendi: d:\İstanbul Uni Ders Notlarım\assets\images\settings.png
+2025-07-28 01:46:22,891 - INFO - Bulunan mikrofonlar: ['Microsoft Sound Mapper - Input', 'SteelSeries Sonar - Microphone ', 'Mikrofon (2- Arctis 7P+)']
+2025-07-28 01:46:22,906 - INFO - Önizleme thread'i başlatıldı.
+2025-07-28 01:46:24,734 - INFO - Uygulama kapatılıyor...
+2025-07-28 01:46:24,735 - INFO - PyAudio terminate edildi.
+2025-07-28 01:46:24,775 - INFO - Uygulama başarıyla kapatıldı.
+2025-07-28 02:24:22,858 - INFO - Arka plan görseli yüklendi: d:\İstanbul Uni Ders Notlarım\assets\images\background.png
+2025-07-28 02:24:22,867 - INFO - Ayarlar ikonu yüklendi: d:\İstanbul Uni Ders Notlarım\assets\images\settings.png
+2025-07-28 02:28:34,764 - INFO - Arka plan görseli yüklendi: d:\İstanbul Uni Ders Notlarım\assets\images\background.png
+2025-07-28 02:28:34,770 - INFO - Ayarlar ikonu yüklendi: d:\İstanbul Uni Ders Notlarım\assets\images\settings.png
+2025-07-28 02:37:55,784 - INFO - Arka plan görseli yüklendi: D:\İstanbul Uni Ders Notlarım\assets\images\background.png
+2025-07-28 02:37:55,792 - INFO - Ayarlar ikonu yüklendi: D:\İstanbul Uni Ders Notlarım\assets\images\settings.png
+2025-07-28 02:37:56,673 - INFO - Bulunan mikrofonlar: ['Microsoft Sound Mapper - Input', 'SteelSeries Sonar - Microphone ', 'Mikrofon (2- Arctis 7P+)']
+2025-07-28 02:37:56,848 - INFO - Önizleme thread'i başlatıldı.
+2025-07-28 02:38:19,456 - INFO - Uygulama kapatılıyor...
+2025-07-28 02:38:19,456 - INFO - PyAudio terminate edildi.
+2025-07-28 02:38:19,557 - INFO - Uygulama başarıyla kapatıldı.
+2025-07-28 02:38:59,369 - INFO - Arka plan görseli yüklendi: d:\İstanbul Uni Ders Notlarım\assets\images\background.png
+2025-07-28 02:38:59,377 - INFO - Ayarlar ikonu yüklendi: d:\İstanbul Uni Ders Notlarım\assets\images\settings.png
+2025-07-28 02:39:00,116 - INFO - Bulunan mikrofonlar: ['Microsoft Sound Mapper - Input', 'SteelSeries Sonar - Microphone ', 'Mikrofon (2- Arctis 7P+)']
+2025-07-28 02:39:00,231 - INFO - Önizleme thread'i başlatıldı.
+2025-07-28 02:43:44,015 - INFO - Arka plan görseli yüklendi: d:\İstanbul Uni Ders Notlarım\assets\images\background.png
+2025-07-28 02:43:44,023 - INFO - Ayarlar ikonu yüklendi: d:\İstanbul Uni Ders Notlarım\assets\images\settings.png
+2025-07-28 02:43:44,851 - INFO - Bulunan mikrofonlar: ['Microsoft Sound Mapper - Input', 'SteelSeries Sonar - Microphone ', 'Mikrofon (2- Arctis 7P+)']
+2025-07-28 02:43:44,966 - INFO - Tespit edilen monitor sayısı: 1
+2025-07-28 02:43:44,968 - INFO - Tespit edilen pencere sayısı: 6
+2025-07-28 02:44:53,047 - INFO - Arka plan görseli yüklendi: D:\İstanbul Uni Ders Notlarım\assets\images\background.png
+2025-07-28 02:44:53,054 - INFO - Ayarlar ikonu yüklendi: D:\İstanbul Uni Ders Notlarım\assets\images\settings.png
+2025-07-28 02:44:53,985 - INFO - Bulunan mikrofonlar: ['Microsoft Sound Mapper - Input', 'SteelSeries Sonar - Microphone ', 'Mikrofon (2- Arctis 7P+)']
+2025-07-28 02:44:54,102 - INFO - Tespit edilen monitor sayısı: 1
+2025-07-28 02:44:54,106 - INFO - Tespit edilen pencere sayısı: 6
+2025-07-28 02:44:54,307 - INFO - Önizleme thread'i başlatıldı.
+2025-07-28 02:45:07,084 - INFO - Yeni kayıt hedefi seçildi: Program Manager
+2025-07-28 02:45:07,811 - INFO - Yeni kayıt hedefi seçildi: Windows Input Experience
+2025-07-28 02:45:08,209 - INFO - Yeni kayıt hedefi seçildi: Settings
+2025-07-28 02:45:08,477 - INFO - Yeni kayıt hedefi seçildi: Mount and Blade II Bannerlord - Singleplayer PID: ...
+2025-07-28 02:45:08,730 - INFO - Yeni kayıt hedefi seçildi: Mount and Blade II Bannerlord - Singleplayer PID: ...
+2025-07-28 02:45:09,070 - INFO - Yeni kayıt hedefi seçildi: İstanbul Uni Ders Notlarım - Windsurf - plan.md
+2025-07-28 02:45:09,385 - INFO - Yeni kayıt hedefi seçildi: İstanbul Uni Ders Notlarım - Windsurf - plan.md
+2025-07-28 02:45:10,465 - INFO - Yeni kayıt hedefi seçildi: Monitor 1
+2025-07-28 02:47:37,993 - INFO - Arka plan görseli yüklendi: d:\İstanbul Uni Ders Notlarım\assets\images\background.png
+2025-07-28 02:47:38,000 - INFO - Ayarlar ikonu yüklendi: d:\İstanbul Uni Ders Notlarım\assets\images\settings.png
+2025-07-28 02:47:38,872 - INFO - Bulunan mikrofonlar: ['Microsoft Sound Mapper - Input', 'SteelSeries Sonar - Microphone ', 'Mikrofon (2- Arctis 7P+)']
+2025-07-28 02:47:39,045 - INFO - Tespit edilen monitor sayısı: 1
+2025-07-28 02:47:39,050 - INFO - Tespit edilen pencere sayısı: 6
+2025-07-28 02:47:39,660 - INFO - Önizleme thread'i başlatıldı.
+2025-07-28 02:47:48,455 - INFO - Yeni kayıt hedefi seçildi: Monitor 1
+2025-07-28 02:47:49,509 - INFO - Yeni kayıt hedefi seçildi: İstanbul Uni Ders Notlarım - Windsurf - ScreenReco...
+2025-07-28 02:47:50,965 - INFO - Yeni kayıt hedefi seçildi: Mount and Blade II Bannerlord - Singleplayer PID: ...
+2025-07-28 02:47:52,935 - INFO - Yeni kayıt hedefi seçildi: Settings
+2025-07-28 02:47:56,675 - INFO - Yeni kayıt hedefi seçildi: Settings
+2025-07-28 02:47:57,605 - INFO - Yeni kayıt hedefi seçildi: Windows Input Experience
+2025-07-28 02:47:58,619 - INFO - Yeni kayıt hedefi seçildi: Program Manager
+2025-07-28 02:47:59,954 - INFO - Yeni kayıt hedefi seçildi: Settings
+2025-07-28 02:48:00,442 - INFO - Yeni kayıt hedefi seçildi: İstanbul Uni Ders Notlarım - Windsurf - ScreenReco...
+2025-07-28 02:48:00,952 - INFO - Yeni kayıt hedefi seçildi: İstanbul Uni Ders Notlarım - Windsurf - ScreenReco...
+2025-07-28 02:48:01,445 - INFO - Yeni kayıt hedefi seçildi: Monitor 1
+2025-07-28 02:48:01,977 - INFO - Yeni kayıt hedefi seçildi: Monitor 1
+2025-07-28 02:48:22,849 - INFO - Uygulama kapatılıyor...
+2025-07-28 02:48:22,850 - INFO - PyAudio terminate edildi.
+2025-07-28 02:48:22,952 - INFO - Uygulama başarıyla kapatıldı.
+2025-07-28 02:49:32,444 - INFO - Arka plan görseli yüklendi: D:\İstanbul Uni Ders Notlarım\assets\images\background.png
+2025-07-28 02:49:32,452 - INFO - Ayarlar ikonu yüklendi: D:\İstanbul Uni Ders Notlarım\assets\images\settings.png
+2025-07-28 02:49:33,255 - INFO - Bulunan mikrofonlar: ['Microsoft Sound Mapper - Input', 'SteelSeries Sonar - Microphone ', 'Mikrofon (2- Arctis 7P+)']
+2025-07-28 02:49:33,371 - INFO - Tespit edilen monitor sayısı: 1
+2025-07-28 02:49:33,373 - INFO - Tespit edilen pencere sayısı: 6
+2025-07-28 02:49:33,957 - INFO - Önizleme thread'i başlatıldı.
+2025-07-28 02:49:37,969 - INFO - Uygulama kapatılıyor...
+2025-07-28 02:49:37,969 - INFO - PyAudio terminate edildi.
+2025-07-28 02:49:38,086 - INFO - Uygulama başarıyla kapatıldı.
+2025-07-28 02:51:11,699 - INFO - Arka plan görseli yüklendi: d:\İstanbul Uni Ders Notlarım\assets\images\background.png
+2025-07-28 02:51:11,708 - INFO - Ayarlar ikonu yüklendi: d:\İstanbul Uni Ders Notlarım\assets\images\settings.png
+2025-07-28 02:51:12,500 - INFO - Bulunan mikrofonlar: ['Microsoft Sound Mapper - Input', 'SteelSeries Sonar - Microphone ', 'Mikrofon (2- Arctis 7P+)']
+2025-07-28 02:51:12,621 - INFO - Tespit edilen monitor sayısı: 1
+2025-07-28 02:51:12,622 - INFO - Tespit edilen pencere sayısı: 6
+2025-07-28 02:51:13,196 - INFO - Önizleme thread'i başlatıldı.
+2025-07-28 02:54:17,501 - INFO - Arka plan görseli yüklendi: D:\İstanbul Uni Ders Notlarım\assets\images\background.png
+2025-07-28 02:54:17,510 - INFO - Ayarlar ikonu yüklendi: D:\İstanbul Uni Ders Notlarım\assets\images\settings.png
+2025-07-28 02:54:18,514 - INFO - Bulunan mikrofonlar: ['Microsoft Sound Mapper - Input', 'SteelSeries Sonar - Microphone ', 'Mikrofon (2- Arctis 7P+)']
+2025-07-28 02:54:18,652 - INFO - Tespit edilen monitor sayısı: 1
+2025-07-28 02:54:18,655 - INFO - Tespit edilen pencere sayısı: 6
+2025-07-28 02:54:19,321 - INFO - Önizleme thread'i başlatıldı.
+2025-07-28 02:58:03,325 - INFO - Arka plan görseli yüklendi: d:\İstanbul Uni Ders Notlarım\assets\images\background.png
+2025-07-28 02:58:03,333 - INFO - Ayarlar ikonu yüklendi: d:\İstanbul Uni Ders Notlarım\assets\images\settings.png
+2025-07-28 02:58:04,121 - INFO - Bulunan mikrofonlar: ['Microsoft Sound Mapper - Input', 'SteelSeries Sonar - Microphone ', 'Mikrofon (2- Arctis 7P+)']
+2025-07-28 02:58:04,244 - INFO - Tespit edilen monitor sayısı: 1
+2025-07-28 02:58:04,247 - INFO - Tespit edilen pencere sayısı: 6
+2025-07-28 02:58:04,853 - INFO - Önizleme thread'i başlatıldı.
+2025-07-28 02:58:11,798 - INFO - Yeni kayıt hedefi seçildi: Windows Input Experience
+2025-07-28 02:58:12,417 - INFO - Yeni kayıt hedefi seçildi: Program Manager
+2025-07-28 02:58:13,147 - INFO - Yeni kayıt hedefi seçildi: Settings
+2025-07-28 02:58:13,640 - INFO - Yeni kayıt hedefi seçildi: Mount and Blade II Bannerlord - Singleplayer PID: ...
+2025-07-28 02:58:14,076 - INFO - Yeni kayıt hedefi seçildi: İstanbul Uni Ders Notlarım - Windsurf - ScreenReco...
+2025-07-28 02:58:14,554 - INFO - Yeni kayıt hedefi seçildi: Monitor 1
+2025-07-28 02:58:16,116 - INFO - Yeni kayıt hedefi seçildi: İstanbul Uni Ders Notlarım - Windsurf - ScreenReco...
+2025-07-28 02:58:17,819 - INFO - Yeni kayıt hedefi seçildi: Mount and Blade II Bannerlord - Singleplayer PID: ...
+2025-07-28 02:58:20,960 - INFO - Yeni kayıt hedefi seçildi: Settings
+2025-07-28 02:58:22,229 - INFO - Yeni kayıt hedefi seçildi: Settings
+2025-07-28 02:58:22,899 - INFO - Yeni kayıt hedefi seçildi: Windows Input Experience
+2025-07-28 02:58:23,685 - INFO - Yeni kayıt hedefi seçildi: Program Manager
+2025-07-28 02:59:44,570 - INFO - Uygulama kapatılıyor...
+2025-07-28 02:59:44,571 - INFO - PyAudio terminate edildi.
+2025-07-28 02:59:44,679 - INFO - Uygulama başarıyla kapatıldı.
+2025-07-28 03:02:06,104 - INFO - Arka plan görseli yüklendi: d:\İstanbul Uni Ders Notlarım\assets\images\background.png
+2025-07-28 03:02:06,112 - INFO - Ayarlar ikonu yüklendi: d:\İstanbul Uni Ders Notlarım\assets\images\settings.png
+2025-07-28 03:02:06,912 - INFO - Bulunan mikrofonlar: ['Microsoft Sound Mapper - Input', 'SteelSeries Sonar - Microphone ', 'Mikrofon (2- Arctis 7P+)']
+2025-07-28 03:02:07,022 - INFO - Tespit edilen monitor sayısı: 1
+2025-07-28 03:02:07,023 - INFO - Tespit edilen pencere sayısı: 6
+2025-07-28 03:02:07,564 - INFO - Önizleme thread'i başlatıldı.
+2025-07-28 03:02:09,394 - INFO - Yeni kayıt hedefi seçildi: Settings - Region: {'top': 8, 'left': 0, 'width': 1920, 'height': 1032}
+2025-07-28 03:02:09,922 - INFO - Yeni kayıt hedefi seçildi: İstanbul Uni Ders Notlarım - Windsurf - ScreenReco... - Region: {'top': -8, 'left': -8, 'width': 1936, 'height': 1048}
+2025-07-28 03:02:10,397 - INFO - Yeni kayıt hedefi seçildi: Monitor 1 - Region: {'left': 0, 'top': 0, 'width': 1920, 'height': 1080}
+2025-07-28 03:02:10,875 - INFO - Yeni kayıt hedefi seçildi: Settings - Region: {'top': 8, 'left': 0, 'width': 1920, 'height': 1032}
+2025-07-28 03:02:11,366 - INFO - Yeni kayıt hedefi seçildi: Settings - Region: {'top': -8, 'left': -8, 'width': 1936, 'height': 1048}
+2025-07-28 03:02:11,865 - INFO - Yeni kayıt hedefi seçildi: Windows Input Experience - Region: {'top': 0, 'left': 0, 'width': 1920, 'height': 1080}
+2025-07-28 03:02:12,889 - INFO - Yeni kayıt hedefi seçildi: Program Manager - Region: {'top': 0, 'left': 0, 'width': 1920, 'height': 1080}
+2025-07-28 03:02:14,004 - INFO - Yeni kayıt hedefi seçildi: Monitor 1 - Region: {'left': 0, 'top': 0, 'width': 1920, 'height': 1080}
+2025-07-28 03:02:41,985 - INFO - Uygulama kapatılıyor...
+2025-07-28 03:02:41,986 - INFO - PyAudio terminate edildi.
+2025-07-28 03:02:42,083 - INFO - Uygulama başarıyla kapatıldı.
+2025-07-28 03:05:22,324 - INFO - Arka plan görseli yüklendi: d:\İstanbul Uni Ders Notlarım\assets\images\background.png
+2025-07-28 03:05:22,332 - INFO - Ayarlar ikonu yüklendi: d:\İstanbul Uni Ders Notlarım\assets\images\settings.png
+2025-07-28 03:05:23,365 - INFO - Bulunan mikrofonlar: ['Microsoft Sound Mapper - Input', 'SteelSeries Sonar - Microphone ', 'Mikrofon (2- Arctis 7P+)']
+2025-07-28 03:05:23,488 - INFO - Tespit edilen monitor sayısı: 1
+2025-07-28 03:05:23,491 - INFO - Tespit edilen pencere sayısı: 6
+2025-07-28 03:05:24,067 - INFO - Önizleme thread'i başlatıldı.
+2025-07-28 03:05:45,843 - INFO - Uygulama kapatılıyor...
+2025-07-28 03:05:45,844 - INFO - PyAudio terminate edildi.
+2025-07-28 03:05:45,957 - INFO - Uygulama başarıyla kapatıldı.
+2025-07-28 03:06:11,357 - INFO - Arka plan görseli yüklendi: d:\İstanbul Uni Ders Notlarım\assets\images\background.png
+2025-07-28 03:06:11,365 - INFO - Ayarlar ikonu yüklendi: d:\İstanbul Uni Ders Notlarım\assets\images\settings.png
+2025-07-28 03:06:12,574 - INFO - Bulunan mikrofonlar: ['Microsoft Sound Mapper - Input', 'SteelSeries Sonar - Microphone ', 'Mikrofon (2- Arctis 7P+)']
+2025-07-28 03:06:12,687 - INFO - Tespit edilen monitor sayısı: 1
+2025-07-28 03:06:12,689 - INFO - Tespit edilen pencere sayısı: 6
+2025-07-28 03:06:13,354 - INFO - Önizleme thread'i başlatıldı.
+2025-07-28 03:06:23,680 - INFO - Uygulama kapatılıyor...
+2025-07-28 03:06:23,680 - INFO - PyAudio terminate edildi.
+2025-07-28 03:06:23,784 - INFO - Uygulama başarıyla kapatıldı.
+2025-07-28 03:08:49,567 - INFO - Arka plan görseli yüklendi: d:\İstanbul Uni Ders Notlarım\assets\images\background.png
+2025-07-28 03:08:49,573 - INFO - Ayarlar ikonu yüklendi: d:\İstanbul Uni Ders Notlarım\assets\images\settings.png
+2025-07-28 03:08:50,099 - INFO - Bulunan mikrofonlar: ['Microsoft Sound Mapper - Input', 'SteelSeries Sonar - Microphone ', 'Mikrofon (2- Arctis 7P+)']
+2025-07-28 03:08:50,173 - INFO - Tespit edilen monitor sayısı: 1
+2025-07-28 03:08:50,174 - INFO - Tespit edilen pencere sayısı: 6
+2025-07-28 03:08:50,576 - INFO - Önizleme thread'i başlatıldı.
+2025-07-28 03:09:01,938 - INFO - Yeni kayıt hedefi seçildi: Settings - Region: {'top': 8, 'left': 0, 'width': 1920, 'height': 1032}
+2025-07-28 03:09:02,248 - INFO - Ana önizleme güncellendi: {'type': 'window', 'hwnd': 330666}, region: {'top': 8, 'left': 0, 'width': 1920, 'height': 1032}
+2025-07-28 03:09:02,539 - INFO - Yeni kayıt hedefi seçildi: Mount and Blade II Bannerlord - Singleplayer PID: ... - Region: {'top': 0, 'left': 0, 'width': 1920, 'height': 1080}
+2025-07-28 03:09:02,837 - INFO - Ana önizleme güncellendi: {'type': 'window', 'hwnd': 262356}, region: {'top': 0, 'left': 0, 'width': 1920, 'height': 1080}
+2025-07-28 03:09:03,132 - INFO - Yeni kayıt hedefi seçildi: İstanbul Uni Ders Notlarım - Windsurf - ScreenReco... - Region: {'top': -8, 'left': -8, 'width': 1936, 'height': 1048}
+2025-07-28 03:09:03,435 - INFO - Ana önizleme güncellendi: {'type': 'window', 'hwnd': 1313894}, region: {'top': -8, 'left': -8, 'width': 1936, 'height': 1048}
+2025-07-28 03:09:03,741 - INFO - Yeni kayıt hedefi seçildi: Windows Input Experience - Region: {'top': 0, 'left': 0, 'width': 1920, 'height': 1080}
+2025-07-28 03:09:04,048 - INFO - Ana önizleme güncellendi: {'type': 'window', 'hwnd': 196942}, region: {'top': 0, 'left': 0, 'width': 1920, 'height': 1080}
+2025-07-28 03:09:04,612 - INFO - Yeni kayıt hedefi seçildi: Monitor 1 - Region: {'left': 0, 'top': 0, 'width': 1920, 'height': 1080}
+2025-07-28 03:09:04,950 - INFO - Ana önizleme güncellendi: {'type': 'monitor', 'index': 1}, region: {'left': 0, 'top': 0, 'width': 1920, 'height': 1080}
+2025-07-28 03:09:05,270 - INFO - Yeni kayıt hedefi seçildi: Windows Input Experience - Region: {'top': 0, 'left': 0, 'width': 1920, 'height': 1080}
+2025-07-28 03:09:05,631 - INFO - Ana önizleme güncellendi: {'type': 'window', 'hwnd': 196942}, region: {'top': 0, 'left': 0, 'width': 1920, 'height': 1080}
+2025-07-28 03:09:05,712 - INFO - Yeni kayıt hedefi seçildi: Program Manager - Region: {'top': 0, 'left': 0, 'width': 1920, 'height': 1080}
+2025-07-28 03:09:06,035 - INFO - Ana önizleme güncellendi: {'type': 'window', 'hwnd': 65772}, region: {'top': 0, 'left': 0, 'width': 1920, 'height': 1080}
+2025-07-28 03:09:06,107 - INFO - Yeni kayıt hedefi seçildi: Settings - Region: {'top': 8, 'left': 0, 'width': 1920, 'height': 1032}
+2025-07-28 03:09:06,398 - INFO - Ana önizleme güncellendi: {'type': 'window', 'hwnd': 330666}, region: {'top': 8, 'left': 0, 'width': 1920, 'height': 1032}
+2025-07-28 03:09:06,441 - INFO - Yeni kayıt hedefi seçildi: İstanbul Uni Ders Notlarım - Windsurf - ScreenReco... - Region: {'top': -8, 'left': -8, 'width': 1936, 'height': 1048}
+2025-07-28 03:09:06,788 - INFO - Ana önizleme güncellendi: {'type': 'window', 'hwnd': 1313894}, region: {'top': -8, 'left': -8, 'width': 1936, 'height': 1048}
+2025-07-28 03:09:07,396 - INFO - Yeni kayıt hedefi seçildi: Monitor 1 - Region: {'left': 0, 'top': 0, 'width': 1920, 'height': 1080}
+2025-07-28 03:09:07,764 - INFO - Ana önizleme güncellendi: {'type': 'monitor', 'index': 1}, region: {'left': 0, 'top': 0, 'width': 1920, 'height': 1080}
+2025-07-28 03:12:15,229 - INFO - Arka plan görseli yüklendi: d:\İstanbul Uni Ders Notlarım\assets\images\background.png
+2025-07-28 03:12:15,234 - INFO - Ayarlar ikonu yüklendi: d:\İstanbul Uni Ders Notlarım\assets\images\settings.png
+2025-07-28 03:12:15,747 - INFO - Bulunan mikrofonlar: ['Microsoft Sound Mapper - Input', 'SteelSeries Sonar - Microphone ', 'Mikrofon (2- Arctis 7P+)']
+2025-07-28 03:12:15,817 - INFO - Tespit edilen monitor sayısı: 1
+2025-07-28 03:12:15,818 - INFO - Tespit edilen pencere sayısı: 6
+2025-07-28 03:12:15,943 - INFO - Önizleme thread'i başlatıldı.
+2025-07-28 03:18:52,461 - INFO - Arka plan görseli yüklendi: d:\İstanbul Uni Ders Notlarım\assets\images\background.png
+2025-07-28 03:18:52,470 - INFO - Ayarlar ikonu yüklendi: d:\İstanbul Uni Ders Notlarım\assets\images\settings.png
+2025-07-28 03:18:53,311 - INFO - Bulunan mikrofonlar: ['Microsoft Sound Mapper - Input', 'SteelSeries Sonar - Microphone ', 'Mikrofon (2- Arctis 7P+)']
+2025-07-28 03:18:53,402 - INFO - Tespit edilen monitor sayısı: 1
+2025-07-28 03:18:53,403 - INFO - Tespit edilen pencere sayısı: 6
+2025-07-28 03:18:53,556 - INFO - Önizleme thread'i başlatıldı.
+2025-07-28 03:18:59,576 - INFO - Yeni kayıt hedefi seçildi: Settings - Region: {'top': -8, 'left': -8, 'width': 1936, 'height': 1048}
+2025-07-28 03:18:59,635 - INFO - Ana önizleme güncellendi: {'type': 'window', 'hwnd': 527308}, region: {'top': -8, 'left': -8, 'width': 1936, 'height': 1048}
+2025-07-28 03:19:00,360 - INFO - Yeni kayıt hedefi seçildi: Settings - Region: {'top': 8, 'left': 0, 'width': 1920, 'height': 1032}
+2025-07-28 03:19:00,417 - INFO - Ana önizleme güncellendi: {'type': 'window', 'hwnd': 330666}, region: {'top': 8, 'left': 0, 'width': 1920, 'height': 1032}
+2025-07-28 03:19:01,210 - INFO - Yeni kayıt hedefi seçildi: Monitor 1 - Region: {'left': 0, 'top': 0, 'width': 1920, 'height': 1080}
+2025-07-28 03:19:01,270 - INFO - Ana önizleme güncellendi: {'type': 'monitor', 'index': 1}, region: {'left': 0, 'top': 0, 'width': 1920, 'height': 1080}
+2025-07-28 03:19:01,502 - INFO - Yeni kayıt hedefi seçildi: Monitor 1 - Region: {'left': 0, 'top': 0, 'width': 1920, 'height': 1080}
+2025-07-28 03:19:01,555 - INFO - Ana önizleme güncellendi: {'type': 'monitor', 'index': 1}, region: {'left': 0, 'top': 0, 'width': 1920, 'height': 1080}
+2025-07-28 03:19:02,351 - INFO - Yeni kayıt hedefi seçildi: Monitor 1 - Region: {'left': 0, 'top': 0, 'width': 1920, 'height': 1080}
+2025-07-28 03:19:02,411 - INFO - Ana önizleme güncellendi: {'type': 'monitor', 'index': 1}, region: {'left': 0, 'top': 0, 'width': 1920, 'height': 1080}
+2025-07-28 10:24:30,003 - INFO - Arka plan görseli yüklendi: d:\İstanbul Uni Ders Notlarım\assets\images\background.png
+2025-07-28 10:24:30,008 - INFO - Ayarlar ikonu yüklendi: d:\İstanbul Uni Ders Notlarım\assets\images\settings.png
+2025-07-28 10:24:30,584 - INFO - Bulunan mikrofonlar: ['Microsoft Sound Mapper - Input', 'SteelSeries Sonar - Microphone ', 'Mikrofon (2- Arctis 7P+)']
+2025-07-28 10:24:30,651 - INFO - Tespit edilen monitor sayısı: 1
+2025-07-28 10:24:30,653 - INFO - Tespit edilen pencere sayısı: 6
+2025-07-28 10:24:30,744 - INFO - Önizleme thread'i başlatıldı.
+2025-07-28 10:24:43,014 - INFO - Uygulama kapatılıyor...
+2025-07-28 10:24:43,015 - INFO - PyAudio terminate edildi.
+2025-07-28 10:24:43,056 - INFO - Uygulama başarıyla kapatıldı.
+2025-07-28 10:30:53,663 - INFO - Arka plan görseli yüklendi: d:\İstanbul Uni Ders Notlarım\assets\images\background.png
+2025-07-28 10:30:53,668 - INFO - Ayarlar ikonu yüklendi: d:\İstanbul Uni Ders Notlarım\assets\images\settings.png
+2025-07-28 10:30:54,233 - INFO - Bulunan mikrofonlar: ['Microsoft Sound Mapper - Input', 'SteelSeries Sonar - Microphone ', 'Mikrofon (2- Arctis 7P+)']
+2025-07-28 10:30:54,298 - INFO - Tespit edilen monitor sayısı: 1
+2025-07-28 10:30:54,298 - INFO - Tespit edilen pencere sayısı: 6
+2025-07-28 10:30:54,392 - INFO - Önizleme thread'i başlatıldı.
+2025-07-28 10:30:56,953 - INFO - Uygulama kapatılıyor...
+2025-07-28 10:30:56,954 - INFO - PyAudio terminate edildi.
+2025-07-28 10:30:57,000 - INFO - Uygulama başarıyla kapatıldı.
+2025-07-28 10:32:16,602 - INFO - Arka plan görseli yüklendi: d:\İstanbul Uni Ders Notlarım\assets\images\background.png
+2025-07-28 10:32:16,607 - INFO - Ayarlar ikonu yüklendi: d:\İstanbul Uni Ders Notlarım\assets\images\settings.png
+2025-07-28 10:32:17,145 - INFO - Bulunan mikrofonlar: ['Microsoft Sound Mapper - Input', 'SteelSeries Sonar - Microphone ', 'Mikrofon (2- Arctis 7P+)']
+2025-07-28 10:32:17,211 - INFO - Tespit edilen monitor sayısı: 1
+2025-07-28 10:32:17,212 - INFO - Tespit edilen pencere sayısı: 6
+2025-07-28 10:32:17,305 - INFO - Önizleme thread'i başlatıldı.
+2025-07-28 10:32:21,858 - INFO - Yeni kayıt hedefi seçildi: Windows Input Experience - Region: {'top': 0, 'left': 0, 'width': 1920, 'height': 1080}
+2025-07-28 10:32:21,896 - INFO - Ana önizleme güncellendi: {'type': 'window', 'hwnd': 197230}, region: {'top': 0, 'left': 0, 'width': 1920, 'height': 1080}
+2025-07-28 10:32:22,490 - INFO - Yeni kayıt hedefi seçildi: Settings - Region: {'top': -8, 'left': -8, 'width': 1936, 'height': 1048}
+2025-07-28 10:32:22,525 - INFO - Ana önizleme güncellendi: {'type': 'window', 'hwnd': 525654}, region: {'top': -8, 'left': -8, 'width': 1936, 'height': 1048}
+2025-07-28 10:32:22,757 - INFO - Yeni kayıt hedefi seçildi: (33) Porsche Traktörler ve 911 Model Lüks Araçlar ... - Region: {'top': -8, 'left': -8, 'width': 1936, 'height': 1048}
+2025-07-28 10:32:22,790 - INFO - Ana önizleme güncellendi: {'type': 'window', 'hwnd': 132066}, region: {'top': -8, 'left': -8, 'width': 1936, 'height': 1048}
+2025-07-28 10:32:23,020 - INFO - Yeni kayıt hedefi seçildi: ScreenRecord.py - İstanbul Uni Ders Notlarım - Vis... - Region: {'top': -8, 'left': -8, 'width': 1936, 'height': 1048}
+2025-07-28 10:32:23,054 - INFO - Ana önizleme güncellendi: {'type': 'window', 'hwnd': 131960}, region: {'top': -8, 'left': -8, 'width': 1936, 'height': 1048}
+2025-07-28 10:32:23,309 - INFO - Yeni kayıt hedefi seçildi: Monitor 1 - Region: {'left': 0, 'top': 0, 'width': 1920, 'height': 1080}
+2025-07-28 10:32:23,347 - INFO - Ana önizleme güncellendi: {'type': 'monitor', 'index': 1}, region: {'left': 0, 'top': 0, 'width': 1920, 'height': 1080}
+2025-07-28 10:32:23,658 - INFO - Yeni kayıt hedefi seçildi: Settings - Region: {'top': -8, 'left': -8, 'width': 1936, 'height': 1048}
+2025-07-28 10:32:23,697 - INFO - Ana önizleme güncellendi: {'type': 'window', 'hwnd': 525654}, region: {'top': -8, 'left': -8, 'width': 1936, 'height': 1048}
+2025-07-28 10:32:23,955 - INFO - Yeni kayıt hedefi seçildi: Program Manager - Region: {'top': 0, 'left': 0, 'width': 1920, 'height': 1080}
+2025-07-28 10:32:23,989 - INFO - Ana önizleme güncellendi: {'type': 'window', 'hwnd': 65778}, region: {'top': 0, 'left': 0, 'width': 1920, 'height': 1080}
+2025-07-28 10:34:48,703 - INFO - Arka plan görseli yüklendi: d:\İstanbul Uni Ders Notlarım\assets\images\background.png
+2025-07-28 10:34:48,708 - INFO - Ayarlar ikonu yüklendi: d:\İstanbul Uni Ders Notlarım\assets\images\settings.png
+2025-07-28 10:34:49,250 - INFO - Bulunan mikrofonlar: ['Microsoft Sound Mapper - Input', 'SteelSeries Sonar - Microphone ', 'Mikrofon (2- Arctis 7P+)']
+2025-07-28 10:34:49,318 - INFO - Tespit edilen monitor sayısı: 1
+2025-07-28 10:34:49,319 - INFO - Tespit edilen pencere sayısı: 6
+2025-07-28 10:34:49,438 - INFO - Önizleme thread'i başlatıldı.
+2025-07-28 10:34:52,336 - INFO - Yeni kayıt hedefi seçildi: (33) Kha'zix vs Jarvan Solo Siêu Điên Rồ 😱 - Ai Sẽ... - Region: {'top': -8, 'left': -8, 'width': 1936, 'height': 1048}
+2025-07-28 10:34:52,372 - INFO - Ana önizleme güncellendi: {'type': 'window', 'hwnd': 132066}, region: {'top': -8, 'left': -8, 'width': 1936, 'height': 1048}
+2025-07-28 10:34:53,067 - INFO - Yeni kayıt hedefi seçildi: ScreenRecord.py - İstanbul Uni Ders Notlarım - Vis... - Region: {'top': -8, 'left': -8, 'width': 1936, 'height': 1048}
+2025-07-28 10:34:53,100 - INFO - Ana önizleme güncellendi: {'type': 'window', 'hwnd': 131960}, region: {'top': -8, 'left': -8, 'width': 1936, 'height': 1048}
+2025-07-28 10:34:53,473 - INFO - Yeni kayıt hedefi seçildi: Settings - Region: {'top': -8, 'left': -8, 'width': 1936, 'height': 1048}
+2025-07-28 10:34:53,506 - INFO - Ana önizleme güncellendi: {'type': 'window', 'hwnd': 525654}, region: {'top': -8, 'left': -8, 'width': 1936, 'height': 1048}
+2025-07-28 10:34:53,804 - INFO - Yeni kayıt hedefi seçildi: Windows Input Experience - Region: {'top': 0, 'left': 0, 'width': 1920, 'height': 1080}
+2025-07-28 10:34:53,838 - INFO - Ana önizleme güncellendi: {'type': 'window', 'hwnd': 197230}, region: {'top': 0, 'left': 0, 'width': 1920, 'height': 1080}
+2025-07-28 10:34:54,015 - INFO - Yeni kayıt hedefi seçildi: Program Manager - Region: {'top': 0, 'left': 0, 'width': 1920, 'height': 1080}
+2025-07-28 10:34:54,058 - INFO - Ana önizleme güncellendi: {'type': 'window', 'hwnd': 65778}, region: {'top': 0, 'left': 0, 'width': 1920, 'height': 1080}
+2025-07-28 10:34:54,310 - INFO - Yeni kayıt hedefi seçildi: Settings - Region: {'top': -8, 'left': -8, 'width': 1936, 'height': 1048}
+2025-07-28 10:34:54,342 - INFO - Ana önizleme güncellendi: {'type': 'window', 'hwnd': 525654}, region: {'top': -8, 'left': -8, 'width': 1936, 'height': 1048}
+2025-07-28 10:34:54,750 - INFO - Yeni kayıt hedefi seçildi: Program Manager - Region: {'top': 0, 'left': 0, 'width': 1920, 'height': 1080}
+2025-07-28 10:34:54,784 - INFO - Ana önizleme güncellendi: {'type': 'window', 'hwnd': 65778}, region: {'top': 0, 'left': 0, 'width': 1920, 'height': 1080}
+2025-07-28 10:34:55,478 - INFO - Yeni kayıt hedefi seçildi: Windows Input Experience - Region: {'top': 0, 'left': 0, 'width': 1920, 'height': 1080}
+2025-07-28 10:34:55,511 - INFO - Ana önizleme güncellendi: {'type': 'window', 'hwnd': 197230}, region: {'top': 0, 'left': 0, 'width': 1920, 'height': 1080}
+2025-07-28 10:34:55,899 - INFO - Yeni kayıt hedefi seçildi: Settings - Region: {'top': -8, 'left': -8, 'width': 1936, 'height': 1048}
+2025-07-28 10:34:55,932 - INFO - Ana önizleme güncellendi: {'type': 'window', 'hwnd': 525654}, region: {'top': -8, 'left': -8, 'width': 1936, 'height': 1048}
+2025-07-28 10:34:58,293 - INFO - Yeni kayıt hedefi seçildi: Windows Input Experience - Region: {'top': 0, 'left': 0, 'width': 1920, 'height': 1080}
+2025-07-28 10:34:58,333 - INFO - Ana önizleme güncellendi: {'type': 'window', 'hwnd': 197230}, region: {'top': 0, 'left': 0, 'width': 1920, 'height': 1080}
+2025-07-28 10:34:58,906 - INFO - Yeni kayıt hedefi seçildi: Program Manager - Region: {'top': 0, 'left': 0, 'width': 1920, 'height': 1080}
+2025-07-28 10:34:58,947 - INFO - Ana önizleme güncellendi: {'type': 'window', 'hwnd': 65778}, region: {'top': 0, 'left': 0, 'width': 1920, 'height': 1080}
+2025-07-28 10:35:02,509 - INFO - Canvas üzerinde alan seçimi başlatıldı.
+2025-07-28 10:35:04,817 - INFO - Canvas fare bırakıldı: (1026, 560)
+2025-07-28 10:35:06,823 - INFO - Seçilen gerçek kayıt alanı: {'top': 197, 'left': 0, 'width': 1488, 'height': 763}
+2025-07-28 10:35:06,824 - INFO - Canvas seçim işlemi tamamlandı.
+2025-07-28 10:35:13,121 - INFO - Kayıt alanı tüm ekrana sıfırlandı.
+2025-07-28 10:37:15,236 - INFO - Uygulama kapatılıyor...
+2025-07-28 10:37:15,236 - INFO - PyAudio terminate edildi.
+2025-07-28 10:37:15,279 - INFO - Uygulama başarıyla kapatıldı.
+2025-07-28 10:37:33,954 - INFO - Arka plan görseli yüklendi: d:\İstanbul Uni Ders Notlarım\assets\images\background.png
+2025-07-28 10:37:33,959 - INFO - Ayarlar ikonu yüklendi: d:\İstanbul Uni Ders Notlarım\assets\images\settings.png
+2025-07-28 10:37:34,500 - INFO - Bulunan mikrofonlar: ['Microsoft Sound Mapper - Input', 'SteelSeries Sonar - Microphone ', 'Mikrofon (2- Arctis 7P+)']
+2025-07-28 10:37:34,566 - INFO - Tespit edilen monitor sayısı: 1
+2025-07-28 10:37:34,567 - INFO - Tespit edilen pencere sayısı: 6
+2025-07-28 10:37:34,658 - INFO - Önizleme thread'i başlatıldı.
+2025-07-28 10:39:56,595 - INFO - Arka plan görseli yüklendi: d:\İstanbul Uni Ders Notlarım\assets\images\background.png
+2025-07-28 10:39:56,600 - INFO - Ayarlar ikonu yüklendi: d:\İstanbul Uni Ders Notlarım\assets\images\settings.png
+2025-07-28 10:39:57,149 - INFO - Bulunan mikrofonlar: ['Microsoft Sound Mapper - Input', 'SteelSeries Sonar - Microphone ', 'Mikrofon (2- Arctis 7P+)']
+2025-07-28 10:39:57,214 - INFO - Tespit edilen monitor sayısı: 1
+2025-07-28 10:39:57,214 - INFO - Tespit edilen pencere sayısı: 6
+2025-07-28 10:39:57,306 - INFO - Önizleme thread'i başlatıldı.
+2025-07-28 10:39:58,921 - INFO - Yeni kayıt hedefi seçildi: ScreenRecord.py - İstanbul Uni Ders Notlarım - Vis... - Region: {'top': -8, 'left': -8, 'width': 1936, 'height': 1048}
+2025-07-28 10:39:58,953 - INFO - Ana önizleme güncellendi: {'type': 'window', 'hwnd': 131960}, region: {'top': -8, 'left': -8, 'width': 1936, 'height': 1048}
+2025-07-28 10:39:59,054 - INFO - Önizleme thread'i zaten çalışıyor.
+2025-07-28 10:39:59,928 - INFO - Yeni kayıt hedefi seçildi: (33) "Başkası alacak yalanı." Galerici araç satış ... - Region: {'top': -8, 'left': -8, 'width': 1936, 'height': 1048}
+2025-07-28 10:39:59,963 - INFO - Ana önizleme güncellendi: {'type': 'window', 'hwnd': 132066}, region: {'top': -8, 'left': -8, 'width': 1936, 'height': 1048}
+2025-07-28 10:40:00,064 - INFO - Önizleme thread'i zaten çalışıyor.
+2025-07-28 10:40:00,706 - INFO - Yeni kayıt hedefi seçildi: Settings - Region: {'top': 8, 'left': 0, 'width': 1920, 'height': 1032}
+2025-07-28 10:40:00,739 - INFO - Ana önizleme güncellendi: {'type': 'window', 'hwnd': 197968}, region: {'top': 8, 'left': 0, 'width': 1920, 'height': 1032}
+2025-07-28 10:40:00,839 - INFO - Önizleme thread'i zaten çalışıyor.
+2025-07-28 10:40:01,165 - INFO - Yeni kayıt hedefi seçildi: Windows Input Experience - Region: {'top': 0, 'left': 0, 'width': 1920, 'height': 1080}
+2025-07-28 10:40:01,198 - INFO - Ana önizleme güncellendi: {'type': 'window', 'hwnd': 197230}, region: {'top': 0, 'left': 0, 'width': 1920, 'height': 1080}
+2025-07-28 10:40:01,299 - INFO - Önizleme thread'i zaten çalışıyor.
+2025-07-28 10:40:01,685 - INFO - Yeni kayıt hedefi seçildi: Program Manager - Region: {'top': 0, 'left': 0, 'width': 1920, 'height': 1080}
+2025-07-28 10:40:01,723 - INFO - Ana önizleme güncellendi: {'type': 'window', 'hwnd': 65778}, region: {'top': 0, 'left': 0, 'width': 1920, 'height': 1080}
+2025-07-28 10:40:01,823 - INFO - Önizleme thread'i zaten çalışıyor.
+2025-07-28 10:40:02,075 - INFO - Yeni kayıt hedefi seçildi: Settings - Region: {'top': -8, 'left': -8, 'width': 1936, 'height': 1048}
+2025-07-28 10:40:02,108 - INFO - Ana önizleme güncellendi: {'type': 'window', 'hwnd': 525654}, region: {'top': -8, 'left': -8, 'width': 1936, 'height': 1048}
+2025-07-28 10:40:02,209 - INFO - Önizleme thread'i zaten çalışıyor.
+2025-07-28 10:40:02,601 - INFO - Yeni kayıt hedefi seçildi: Settings - Region: {'top': 8, 'left': 0, 'width': 1920, 'height': 1032}
+2025-07-28 10:40:02,635 - INFO - Ana önizleme güncellendi: {'type': 'window', 'hwnd': 197968}, region: {'top': 8, 'left': 0, 'width': 1920, 'height': 1032}
+2025-07-28 10:40:02,735 - INFO - Önizleme thread'i zaten çalışıyor.
+2025-07-28 10:42:24,669 - INFO - Uygulama kapatılıyor...
+2025-07-28 10:42:24,669 - INFO - PyAudio terminate edildi.
+2025-07-28 10:42:24,714 - INFO - Uygulama başarıyla kapatıldı.
+2025-07-28 10:42:30,228 - INFO - Arka plan görseli yüklendi: d:\İstanbul Uni Ders Notlarım\assets\images\background.png
+2025-07-28 10:42:30,234 - INFO - Ayarlar ikonu yüklendi: d:\İstanbul Uni Ders Notlarım\assets\images\settings.png
+2025-07-28 10:42:30,773 - INFO - Bulunan mikrofonlar: ['Microsoft Sound Mapper - Input', 'SteelSeries Sonar - Microphone ', 'Mikrofon (2- Arctis 7P+)']
+2025-07-28 10:42:30,840 - INFO - Tespit edilen monitor sayısı: 1
+2025-07-28 10:42:30,841 - INFO - Tespit edilen pencere sayısı: 6
+2025-07-28 10:42:30,966 - INFO - Önizleme thread'i başlatıldı.
+2025-07-28 10:45:40,349 - INFO - Arka plan görseli yüklendi: d:\İstanbul Uni Ders Notlarım\assets\images\background.png
+2025-07-28 10:45:40,354 - INFO - Ayarlar ikonu yüklendi: d:\İstanbul Uni Ders Notlarım\assets\images\settings.png
+2025-07-28 10:45:40,900 - INFO - Bulunan mikrofonlar: ['Microsoft Sound Mapper - Input', 'SteelSeries Sonar - Microphone ', 'Mikrofon (2- Arctis 7P+)']
+2025-07-28 10:45:40,967 - INFO - Tespit edilen monitor sayısı: 1
+2025-07-28 10:45:40,968 - INFO - Tespit edilen pencere sayısı: 6
+2025-07-28 10:45:41,079 - INFO - Önizleme thread'i başlatıldı.
+2025-07-28 10:45:47,870 - INFO - Yeni kayıt hedefi seçildi: (33) 세트 하이라이트 60 - YouTube - Google Chrome - Region: {'top': -8, 'left': -8, 'width': 1936, 'height': 1048}
+2025-07-28 10:45:47,901 - INFO - Ana önizleme güncellendi: {'type': 'window', 'hwnd': 132066}, region: {'top': -8, 'left': -8, 'width': 1936, 'height': 1048}
+2025-07-28 10:45:48,036 - INFO - Önizleme thread'i zaten çalışıyor.
+2025-07-28 10:45:56,980 - INFO - Yeni kayıt hedefi seçildi: ScreenRecord.py - İstanbul Uni Ders Notlarım - Vis... - Region: {'top': -8, 'left': -8, 'width': 1936, 'height': 1048}
+2025-07-28 10:45:57,014 - INFO - Ana önizleme güncellendi: {'type': 'window', 'hwnd': 131960}, region: {'top': -8, 'left': -8, 'width': 1936, 'height': 1048}
+2025-07-28 10:45:57,115 - INFO - Önizleme thread'i zaten çalışıyor.
+2025-07-28 10:45:58,331 - INFO - Yeni kayıt hedefi seçildi: Settings - Region: {'top': -8, 'left': -8, 'width': 1936, 'height': 1048}
+2025-07-28 10:45:58,363 - INFO - Ana önizleme güncellendi: {'type': 'window', 'hwnd': 525654}, region: {'top': -8, 'left': -8, 'width': 1936, 'height': 1048}
+2025-07-28 10:45:58,464 - INFO - Önizleme thread'i zaten çalışıyor.
+2025-07-28 10:45:59,052 - INFO - Yeni kayıt hedefi seçildi: Settings - Region: {'top': 8, 'left': 0, 'width': 1920, 'height': 1032}
+2025-07-28 10:45:59,095 - INFO - Ana önizleme güncellendi: {'type': 'window', 'hwnd': 197968}, region: {'top': 8, 'left': 0, 'width': 1920, 'height': 1032}
+2025-07-28 10:45:59,196 - INFO - Önizleme thread'i zaten çalışıyor.
+2025-07-28 10:46:00,604 - INFO - Yeni kayıt hedefi seçildi: Windows Input Experience - Region: {'top': 0, 'left': 0, 'width': 1920, 'height': 1080}
+2025-07-28 10:46:00,639 - INFO - Ana önizleme güncellendi: {'type': 'window', 'hwnd': 197230}, region: {'top': 0, 'left': 0, 'width': 1920, 'height': 1080}
+2025-07-28 10:46:00,740 - INFO - Önizleme thread'i zaten çalışıyor.
+2025-07-28 10:46:01,447 - INFO - Yeni kayıt hedefi seçildi: Program Manager - Region: {'top': 0, 'left': 0, 'width': 1920, 'height': 1080}
+2025-07-28 10:46:01,485 - INFO - Ana önizleme güncellendi: {'type': 'window', 'hwnd': 65778}, region: {'top': 0, 'left': 0, 'width': 1920, 'height': 1080}
+2025-07-28 10:46:01,586 - INFO - Önizleme thread'i zaten çalışıyor.
+2025-07-28 10:46:03,014 - INFO - Yeni kayıt hedefi seçildi: Monitor 1 - Region: {'left': 0, 'top': 0, 'width': 1920, 'height': 1080}
+2025-07-28 10:46:03,053 - INFO - Ana önizleme güncellendi: {'type': 'monitor', 'index': 1}, region: {'left': 0, 'top': 0, 'width': 1920, 'height': 1080}
+2025-07-28 10:46:03,154 - INFO - Önizleme thread'i zaten çalışıyor.
+2025-07-28 10:46:03,450 - INFO - Yeni kayıt hedefi seçildi: ScreenRecord.py - İstanbul Uni Ders Notlarım - Vis... - Region: {'top': -8, 'left': -8, 'width': 1936, 'height': 1048}
+2025-07-28 10:46:03,484 - INFO - Ana önizleme güncellendi: {'type': 'window', 'hwnd': 131960}, region: {'top': -8, 'left': -8, 'width': 1936, 'height': 1048}
+2025-07-28 10:46:03,585 - INFO - Önizleme thread'i zaten çalışıyor.
+2025-07-28 10:46:03,812 - INFO - Yeni kayıt hedefi seçildi: (33) 세트 하이라이트 60 - YouTube - Google Chrome - Region: {'top': -8, 'left': -8, 'width': 1936, 'height': 1048}
+2025-07-28 10:46:03,848 - INFO - Ana önizleme güncellendi: {'type': 'window', 'hwnd': 132066}, region: {'top': -8, 'left': -8, 'width': 1936, 'height': 1048}
+2025-07-28 10:46:03,948 - INFO - Önizleme thread'i zaten çalışıyor.
+2025-07-28 10:46:04,681 - INFO - Yeni kayıt hedefi seçildi: (33) 세트 하이라이트 60 - YouTube - Google Chrome - Region: {'top': -8, 'left': -8, 'width': 1936, 'height': 1048}
+2025-07-28 10:46:04,714 - INFO - Ana önizleme güncellendi: {'type': 'window', 'hwnd': 132066}, region: {'top': -8, 'left': -8, 'width': 1936, 'height': 1048}
+2025-07-28 10:46:04,815 - INFO - Önizleme thread'i zaten çalışıyor.
+2025-07-28 10:46:04,839 - INFO - Yeni kayıt hedefi seçildi: (33) 세트 하이라이트 60 - YouTube - Google Chrome - Region: {'top': -8, 'left': -8, 'width': 1936, 'height': 1048}
+2025-07-28 10:46:04,875 - INFO - Ana önizleme güncellendi: {'type': 'window', 'hwnd': 132066}, region: {'top': -8, 'left': -8, 'width': 1936, 'height': 1048}
+2025-07-28 10:46:04,976 - INFO - Önizleme thread'i zaten çalışıyor.
+2025-07-28 10:46:05,618 - INFO - Yeni kayıt hedefi seçildi: Settings - Region: {'top': 8, 'left': 0, 'width': 1920, 'height': 1032}
+2025-07-28 10:46:05,660 - INFO - Ana önizleme güncellendi: {'type': 'window', 'hwnd': 197968}, region: {'top': 8, 'left': 0, 'width': 1920, 'height': 1032}
+2025-07-28 10:46:05,761 - INFO - Önizleme thread'i zaten çalışıyor.
+2025-07-28 10:46:06,163 - INFO - Yeni kayıt hedefi seçildi: (33) 세트 하이라이트 60 - YouTube - Google Chrome - Region: {'top': -8, 'left': -8, 'width': 1936, 'height': 1048}
+2025-07-28 10:46:06,202 - INFO - Ana önizleme güncellendi: {'type': 'window', 'hwnd': 132066}, region: {'top': -8, 'left': -8, 'width': 1936, 'height': 1048}
+2025-07-28 10:46:06,303 - INFO - Önizleme thread'i zaten çalışıyor.
+2025-07-28 10:46:08,184 - INFO - Yeni kayıt hedefi seçildi: ScreenRecord.py - İstanbul Uni Ders Notlarım - Vis... - Region: {'top': -8, 'left': -8, 'width': 1936, 'height': 1048}
+2025-07-28 10:46:08,218 - INFO - Ana önizleme güncellendi: {'type': 'window', 'hwnd': 131960}, region: {'top': -8, 'left': -8, 'width': 1936, 'height': 1048}
+2025-07-28 10:46:08,318 - INFO - Önizleme thread'i zaten çalışıyor.
+2025-07-28 10:46:08,744 - INFO - Yeni kayıt hedefi seçildi: (33) 세트 하이라이트 60 - YouTube - Google Chrome - Region: {'top': -8, 'left': -8, 'width': 1936, 'height': 1048}
+2025-07-28 10:46:08,783 - INFO - Ana önizleme güncellendi: {'type': 'window', 'hwnd': 132066}, region: {'top': -8, 'left': -8, 'width': 1936, 'height': 1048}
+2025-07-28 10:46:08,884 - INFO - Önizleme thread'i zaten çalışıyor.
+2025-07-28 10:52:43,019 - INFO - Arka plan görseli yüklendi: d:\İstanbul Uni Ders Notlarım\assets\images\background.png
+2025-07-28 10:52:43,024 - INFO - Ayarlar ikonu yüklendi: d:\İstanbul Uni Ders Notlarım\assets\images\settings.png
+2025-07-28 10:52:43,590 - INFO - Bulunan mikrofonlar: ['Microsoft Sound Mapper - Input', 'SteelSeries Sonar - Microphone ', 'Mikrofon (2- Arctis 7P+)']
+2025-07-28 10:52:43,657 - INFO - Tespit edilen monitor sayısı: 1
+2025-07-28 10:52:43,658 - INFO - Tespit edilen pencere sayısı: 6
+2025-07-28 10:52:43,752 - INFO - Önizleme thread'i başlatıldı.
+2025-07-28 10:52:45,361 - INFO - Yeni kayıt hedefi seçildi: (33) Rex and Asobi compete to see who can land fir... - Region: {'top': -8, 'left': -8, 'width': 1936, 'height': 1048}
+2025-07-28 10:52:45,396 - INFO - Ana önizleme güncellendi: {'type': 'window', 'hwnd': 132066}, region: {'top': -8, 'left': -8, 'width': 1936, 'height': 1048}
+2025-07-28 10:52:45,497 - INFO - Önizleme thread'i zaten çalışıyor.
+2025-07-28 10:52:46,107 - INFO - Yeni kayıt hedefi seçildi: ScreenRecord.py - İstanbul Uni Ders Notlarım - Vis... - Region: {'top': -8, 'left': -8, 'width': 1936, 'height': 1048}
+2025-07-28 10:52:46,150 - INFO - Ana önizleme güncellendi: {'type': 'window', 'hwnd': 131960}, region: {'top': -8, 'left': -8, 'width': 1936, 'height': 1048}
+2025-07-28 10:52:46,250 - INFO - Önizleme thread'i zaten çalışıyor.
+2025-07-28 10:52:46,847 - INFO - Yeni kayıt hedefi seçildi: Settings - Region: {'top': 8, 'left': 0, 'width': 1920, 'height': 1032}
+2025-07-28 10:52:46,883 - INFO - Ana önizleme güncellendi: {'type': 'window', 'hwnd': 197968}, region: {'top': 8, 'left': 0, 'width': 1920, 'height': 1032}
+2025-07-28 10:52:46,983 - INFO - Önizleme thread'i zaten çalışıyor.
+2025-07-28 10:52:47,208 - INFO - Yeni kayıt hedefi seçildi: Settings - Region: {'top': -8, 'left': -8, 'width': 1936, 'height': 1048}
+2025-07-28 10:52:47,243 - INFO - Ana önizleme güncellendi: {'type': 'window', 'hwnd': 525654}, region: {'top': -8, 'left': -8, 'width': 1936, 'height': 1048}
+2025-07-28 10:52:47,344 - INFO - Önizleme thread'i zaten çalışıyor.
+2025-07-28 10:52:47,532 - INFO - Yeni kayıt hedefi seçildi: Windows Input Experience - Region: {'top': 0, 'left': 0, 'width': 1920, 'height': 1080}
+2025-07-28 10:52:47,574 - INFO - Ana önizleme güncellendi: {'type': 'window', 'hwnd': 197230}, region: {'top': 0, 'left': 0, 'width': 1920, 'height': 1080}
+2025-07-28 10:52:47,674 - INFO - Önizleme thread'i zaten çalışıyor.
+2025-07-28 10:52:50,440 - INFO - Yeni kayıt hedefi seçildi: Program Manager - Region: {'top': 0, 'left': 0, 'width': 1920, 'height': 1080}
+2025-07-28 10:52:50,477 - INFO - Ana önizleme güncellendi: {'type': 'window', 'hwnd': 65778}, region: {'top': 0, 'left': 0, 'width': 1920, 'height': 1080}
+2025-07-28 10:52:50,577 - INFO - Önizleme thread'i zaten çalışıyor.
+2025-07-28 10:52:50,882 - INFO - Yeni kayıt hedefi seçildi: Windows Input Experience - Region: {'top': 0, 'left': 0, 'width': 1920, 'height': 1080}
+2025-07-28 10:52:50,925 - INFO - Ana önizleme güncellendi: {'type': 'window', 'hwnd': 197230}, region: {'top': 0, 'left': 0, 'width': 1920, 'height': 1080}
+2025-07-28 10:52:51,026 - INFO - Önizleme thread'i zaten çalışıyor.
+2025-07-28 10:52:51,126 - INFO - Yeni kayıt hedefi seçildi: (33) Rex and Asobi compete to see who can land fir... - Region: {'top': -8, 'left': -8, 'width': 1936, 'height': 1048}
+2025-07-28 10:52:51,162 - INFO - Ana önizleme güncellendi: {'type': 'window', 'hwnd': 132066}, region: {'top': -8, 'left': -8, 'width': 1936, 'height': 1048}
+2025-07-28 10:52:51,263 - INFO - Önizleme thread'i zaten çalışıyor.
+2025-07-28 10:52:51,349 - INFO - Yeni kayıt hedefi seçildi: (33) Rex and Asobi compete to see who can land fir... - Region: {'top': -8, 'left': -8, 'width': 1936, 'height': 1048}
+2025-07-28 10:52:51,384 - INFO - Ana önizleme güncellendi: {'type': 'window', 'hwnd': 132066}, region: {'top': -8, 'left': -8, 'width': 1936, 'height': 1048}
+2025-07-28 10:52:51,485 - INFO - Önizleme thread'i zaten çalışıyor.
+2025-07-28 10:52:51,582 - INFO - Yeni kayıt hedefi seçildi: ScreenRecord.py - İstanbul Uni Ders Notlarım - Vis... - Region: {'top': -8, 'left': -8, 'width': 1936, 'height': 1048}
+2025-07-28 10:52:51,624 - INFO - Ana önizleme güncellendi: {'type': 'window', 'hwnd': 131960}, region: {'top': -8, 'left': -8, 'width': 1936, 'height': 1048}
+2025-07-28 10:52:51,725 - INFO - Önizleme thread'i zaten çalışıyor.
+2025-07-28 10:52:52,824 - INFO - Yeni kayıt hedefi seçildi: Monitor 1 - Region: {'left': 0, 'top': 0, 'width': 1920, 'height': 1080}
+2025-07-28 10:52:52,859 - INFO - Ana önizleme güncellendi: {'type': 'monitor', 'index': 1}, region: {'left': 0, 'top': 0, 'width': 1920, 'height': 1080}
+2025-07-28 10:52:52,960 - INFO - Önizleme thread'i zaten çalışıyor.
+2025-07-28 10:53:04,307 - INFO - Yeni kayıt hedefi seçildi: ScreenRecord.py - İstanbul Uni Ders Notlarım - Vis... - Region: {'top': -8, 'left': -8, 'width': 1936, 'height': 1048}
+2025-07-28 10:53:04,342 - INFO - Ana önizleme güncellendi: {'type': 'window', 'hwnd': 131960}, region: {'top': -8, 'left': -8, 'width': 1936, 'height': 1048}
+2025-07-28 10:53:04,458 - INFO - Önizleme thread'i zaten çalışıyor.
+2025-07-28 10:53:10,662 - INFO - Yeni kayıt hedefi seçildi: ScreenRecord.py - İstanbul Uni Ders Notlarım - Vis... - Region: {'top': -8, 'left': -8, 'width': 1936, 'height': 1048}
+2025-07-28 10:53:10,699 - INFO - Ana önizleme güncellendi: {'type': 'window', 'hwnd': 131960}, region: {'top': -8, 'left': -8, 'width': 1936, 'height': 1048}
+2025-07-28 10:53:10,814 - INFO - Önizleme thread'i zaten çalışıyor.
+2025-07-28 10:53:13,520 - INFO - Yeni kayıt hedefi seçildi: ScreenRecord.py - İstanbul Uni Ders Notlarım - Vis... - Region: {'top': -8, 'left': -8, 'width': 1936, 'height': 1048}
+2025-07-28 10:53:13,562 - INFO - Ana önizleme güncellendi: {'type': 'window', 'hwnd': 131960}, region: {'top': -8, 'left': -8, 'width': 1936, 'height': 1048}
+2025-07-28 10:53:13,677 - INFO - Önizleme thread'i zaten çalışıyor.
+2025-07-28 10:53:18,085 - INFO - Yeni kayıt hedefi seçildi: Program Manager - Region: {'top': 0, 'left': 0, 'width': 1920, 'height': 1080}
+2025-07-28 10:53:18,120 - INFO - Ana önizleme güncellendi: {'type': 'window', 'hwnd': 65778}, region: {'top': 0, 'left': 0, 'width': 1920, 'height': 1080}
+2025-07-28 10:53:18,221 - INFO - Önizleme thread'i zaten çalışıyor.
+2025-07-28 10:53:18,851 - INFO - Yeni kayıt hedefi seçildi: Settings - Region: {'top': -8, 'left': -8, 'width': 1936, 'height': 1048}
+2025-07-28 10:53:18,885 - INFO - Ana önizleme güncellendi: {'type': 'window', 'hwnd': 525654}, region: {'top': -8, 'left': -8, 'width': 1936, 'height': 1048}
+2025-07-28 10:53:18,986 - INFO - Önizleme thread'i zaten çalışıyor.
+2025-07-28 10:53:19,119 - INFO - Yeni kayıt hedefi seçildi: (33) Rex and Asobi compete to see who can land fir... - Region: {'top': -8, 'left': -8, 'width': 1936, 'height': 1048}
+2025-07-28 10:53:19,154 - INFO - Ana önizleme güncellendi: {'type': 'window', 'hwnd': 132066}, region: {'top': -8, 'left': -8, 'width': 1936, 'height': 1048}
+2025-07-28 10:53:19,255 - INFO - Önizleme thread'i zaten çalışıyor.
+2025-07-28 10:53:19,489 - INFO - Yeni kayıt hedefi seçildi: ScreenRecord.py - İstanbul Uni Ders Notlarım - Vis... - Region: {'top': -8, 'left': -8, 'width': 1936, 'height': 1048}
+2025-07-28 10:53:19,524 - INFO - Ana önizleme güncellendi: {'type': 'window', 'hwnd': 131960}, region: {'top': -8, 'left': -8, 'width': 1936, 'height': 1048}
+2025-07-28 10:53:19,639 - INFO - Önizleme thread'i zaten çalışıyor.
+2025-07-28 10:53:31,431 - INFO - Kayıt FPS ayarı: 30
+2025-07-28 10:53:33,955 - INFO - Yeni kayıt hedefi seçildi: Monitor 1 - Region: {'left': 0, 'top': 0, 'width': 1920, 'height': 1080}
+2025-07-28 10:53:33,990 - INFO - Ana önizleme güncellendi: {'type': 'monitor', 'index': 1}, region: {'left': 0, 'top': 0, 'width': 1920, 'height': 1080}
+2025-07-28 10:53:34,091 - INFO - Önizleme thread'i zaten çalışıyor.
+2025-07-28 10:53:36,517 - INFO - Yeni kayıt hedefi seçildi: ScreenRecord.py - İstanbul Uni Ders Notlarım - Vis... - Region: {'top': -8, 'left': -8, 'width': 1936, 'height': 1048}
+2025-07-28 10:53:36,561 - INFO - Ana önizleme güncellendi: {'type': 'window', 'hwnd': 131960}, region: {'top': -8, 'left': -8, 'width': 1936, 'height': 1048}
+2025-07-28 10:53:36,661 - INFO - Önizleme thread'i zaten çalışıyor.
+2025-07-28 10:53:38,661 - INFO - Yeni kayıt hedefi seçildi: (33) Rex and Asobi compete to see who can land fir... - Region: {'top': -8, 'left': -8, 'width': 1936, 'height': 1048}
+2025-07-28 10:53:38,699 - INFO - Ana önizleme güncellendi: {'type': 'window', 'hwnd': 132066}, region: {'top': -8, 'left': -8, 'width': 1936, 'height': 1048}
+2025-07-28 10:53:38,800 - INFO - Önizleme thread'i zaten çalışıyor.
+2025-07-28 10:53:40,694 - INFO - Yeni kayıt hedefi seçildi: Settings - Region: {'top': 8, 'left': 0, 'width': 1920, 'height': 1032}
+2025-07-28 10:53:40,729 - INFO - Ana önizleme güncellendi: {'type': 'window', 'hwnd': 197968}, region: {'top': 8, 'left': 0, 'width': 1920, 'height': 1032}
+2025-07-28 10:53:40,830 - INFO - Önizleme thread'i zaten çalışıyor.
+2025-07-28 10:53:43,076 - INFO - Yeni kayıt hedefi seçildi: Settings - Region: {'top': -8, 'left': -8, 'width': 1936, 'height': 1048}
+2025-07-28 10:53:43,122 - INFO - Ana önizleme güncellendi: {'type': 'window', 'hwnd': 525654}, region: {'top': -8, 'left': -8, 'width': 1936, 'height': 1048}
+2025-07-28 10:53:43,223 - INFO - Önizleme thread'i zaten çalışıyor.
+2025-07-28 10:53:44,170 - INFO - Yeni kayıt hedefi seçildi: Windows Input Experience - Region: {'top': 0, 'left': 0, 'width': 1920, 'height': 1080}
+2025-07-28 10:53:44,206 - INFO - Ana önizleme güncellendi: {'type': 'window', 'hwnd': 197230}, region: {'top': 0, 'left': 0, 'width': 1920, 'height': 1080}
+2025-07-28 10:53:44,306 - INFO - Önizleme thread'i zaten çalışıyor.
+2025-07-28 10:53:45,032 - INFO - Yeni kayıt hedefi seçildi: Program Manager - Region: {'top': 0, 'left': 0, 'width': 1920, 'height': 1080}
+2025-07-28 10:53:45,073 - INFO - Ana önizleme güncellendi: {'type': 'window', 'hwnd': 65778}, region: {'top': 0, 'left': 0, 'width': 1920, 'height': 1080}
+2025-07-28 10:53:45,174 - INFO - Önizleme thread'i zaten çalışıyor.
+2025-07-28 10:53:46,125 - INFO - Yeni kayıt hedefi seçildi: Monitor 1 - Region: {'left': 0, 'top': 0, 'width': 1920, 'height': 1080}
+2025-07-28 10:53:46,160 - INFO - Ana önizleme güncellendi: {'type': 'monitor', 'index': 1}, region: {'left': 0, 'top': 0, 'width': 1920, 'height': 1080}
+2025-07-28 10:53:46,261 - INFO - Önizleme thread'i zaten çalışıyor.
+2025-07-28 10:54:05,550 - INFO - Kayıt durdurma sinyali gönderildi.
+2025-07-28 10:54:25,462 - INFO - Kayıt FPS ayarı: 30
+2025-07-28 10:54:27,736 - INFO - Kayıt durdurma sinyali gönderildi.
+2025-07-28 10:55:08,413 - INFO - Canvas üzerinde alan seçimi başlatıldı.
+2025-07-28 10:55:20,225 - INFO - Yeni kayıt hedefi seçildi: ScreenRecord.py - İstanbul Uni Ders Notlarım - Vis... - Region: {'top': -8, 'left': -8, 'width': 1936, 'height': 1048}
+2025-07-28 10:55:20,264 - INFO - Ana önizleme güncellendi: {'type': 'window', 'hwnd': 131960}, region: {'top': -8, 'left': -8, 'width': 1936, 'height': 1048}
+2025-07-28 10:55:20,365 - INFO - Önizleme thread'i zaten çalışıyor.
+2025-07-28 10:55:20,921 - INFO - Yeni kayıt hedefi seçildi: ScreenRecord.py - İstanbul Uni Ders Notlarım - Vis... - Region: {'top': -8, 'left': -8, 'width': 1936, 'height': 1048}
+2025-07-28 10:55:20,957 - INFO - Ana önizleme güncellendi: {'type': 'window', 'hwnd': 131960}, region: {'top': -8, 'left': -8, 'width': 1936, 'height': 1048}
+2025-07-28 10:55:21,058 - INFO - Önizleme thread'i zaten çalışıyor.
+2025-07-28 10:55:21,544 - INFO - Yeni kayıt hedefi seçildi: (33) Rex and Asobi compete to see who can land fir... - Region: {'top': -8, 'left': -8, 'width': 1936, 'height': 1048}
+2025-07-28 10:55:21,582 - INFO - Ana önizleme güncellendi: {'type': 'window', 'hwnd': 132066}, region: {'top': -8, 'left': -8, 'width': 1936, 'height': 1048}
+2025-07-28 10:55:21,683 - INFO - Önizleme thread'i zaten çalışıyor.
+2025-07-28 10:55:24,315 - INFO - Yeni kayıt hedefi seçildi: Settings - Region: {'top': 8, 'left': 0, 'width': 1920, 'height': 1032}
+2025-07-28 10:55:24,350 - INFO - Ana önizleme güncellendi: {'type': 'window', 'hwnd': 197968}, region: {'top': 8, 'left': 0, 'width': 1920, 'height': 1032}
+2025-07-28 10:55:24,450 - INFO - Önizleme thread'i zaten çalışıyor.
+2025-07-28 10:55:24,836 - INFO - Yeni kayıt hedefi seçildi: Windows Input Experience - Region: {'top': 0, 'left': 0, 'width': 1920, 'height': 1080}
+2025-07-28 10:55:24,871 - INFO - Ana önizleme güncellendi: {'type': 'window', 'hwnd': 197230}, region: {'top': 0, 'left': 0, 'width': 1920, 'height': 1080}
+2025-07-28 10:55:24,972 - INFO - Önizleme thread'i zaten çalışıyor.
+2025-07-28 10:55:25,191 - INFO - Yeni kayıt hedefi seçildi: Settings - Region: {'top': -8, 'left': -8, 'width': 1936, 'height': 1048}
+2025-07-28 10:55:25,232 - INFO - Ana önizleme güncellendi: {'type': 'window', 'hwnd': 525654}, region: {'top': -8, 'left': -8, 'width': 1936, 'height': 1048}
+2025-07-28 10:55:25,333 - INFO - Önizleme thread'i zaten çalışıyor.
+2025-07-28 10:55:25,548 - INFO - Yeni kayıt hedefi seçildi: Program Manager - Region: {'top': 0, 'left': 0, 'width': 1920, 'height': 1080}
+2025-07-28 10:55:25,585 - INFO - Ana önizleme güncellendi: {'type': 'window', 'hwnd': 65778}, region: {'top': 0, 'left': 0, 'width': 1920, 'height': 1080}
+2025-07-28 10:55:25,685 - INFO - Önizleme thread'i zaten çalışıyor.
+2025-07-28 10:55:26,152 - INFO - Yeni kayıt hedefi seçildi: Windows Input Experience - Region: {'top': 0, 'left': 0, 'width': 1920, 'height': 1080}
+2025-07-28 10:55:26,187 - INFO - Ana önizleme güncellendi: {'type': 'window', 'hwnd': 197230}, region: {'top': 0, 'left': 0, 'width': 1920, 'height': 1080}
+2025-07-28 10:55:26,287 - INFO - Önizleme thread'i zaten çalışıyor.
+2025-07-28 10:55:59,794 - INFO - Yeni kayıt hedefi seçildi: Monitor 1 - Region: {'left': 0, 'top': 0, 'width': 1920, 'height': 1080}
+2025-07-28 10:55:59,829 - INFO - Ana önizleme güncellendi: {'type': 'monitor', 'index': 1}, region: {'left': 0, 'top': 0, 'width': 1920, 'height': 1080}
+2025-07-28 10:55:59,930 - INFO - Önizleme thread'i zaten çalışıyor.
+2025-07-28 10:56:00,485 - INFO - Kayıt FPS ayarı: 30
+2025-07-28 10:56:05,251 - INFO - Kayıt durdurma sinyali gönderildi.
+2025-07-28 10:56:06,022 - INFO - Kayıt FPS ayarı: 30
+2025-07-28 10:56:07,751 - INFO - Yeni kayıt hedefi seçildi: ScreenRecord.py - İstanbul Uni Ders Notlarım - Vis... - Region: {'top': -8, 'left': -8, 'width': 1936, 'height': 1048}
+2025-07-28 10:56:07,786 - INFO - Ana önizleme güncellendi: {'type': 'window', 'hwnd': 131960}, region: {'top': -8, 'left': -8, 'width': 1936, 'height': 1048}
+2025-07-28 10:56:07,886 - INFO - Önizleme thread'i zaten çalışıyor.
+2025-07-28 10:56:08,387 - INFO - Yeni kayıt hedefi seçildi: (33) Rex and Asobi compete to see who can land fir... - Region: {'top': -8, 'left': -8, 'width': 1936, 'height': 1048}
+2025-07-28 10:56:08,422 - INFO - Ana önizleme güncellendi: {'type': 'window', 'hwnd': 132066}, region: {'top': -8, 'left': -8, 'width': 1936, 'height': 1048}
+2025-07-28 10:56:08,523 - INFO - Önizleme thread'i zaten çalışıyor.
+2025-07-28 10:56:08,637 - INFO - Yeni kayıt hedefi seçildi: Settings - Region: {'top': 8, 'left': 0, 'width': 1920, 'height': 1032}
+2025-07-28 10:56:08,676 - INFO - Ana önizleme güncellendi: {'type': 'window', 'hwnd': 197968}, region: {'top': 8, 'left': 0, 'width': 1920, 'height': 1032}
+2025-07-28 10:56:08,777 - INFO - Önizleme thread'i zaten çalışıyor.
+2025-07-28 10:56:09,371 - INFO - Yeni kayıt hedefi seçildi: Settings - Region: {'top': -8, 'left': -8, 'width': 1936, 'height': 1048}
+2025-07-28 10:56:09,412 - INFO - Ana önizleme güncellendi: {'type': 'window', 'hwnd': 525654}, region: {'top': -8, 'left': -8, 'width': 1936, 'height': 1048}
+2025-07-28 10:56:09,512 - INFO - Önizleme thread'i zaten çalışıyor.
+2025-07-28 10:56:09,886 - INFO - Yeni kayıt hedefi seçildi: Program Manager - Region: {'top': 0, 'left': 0, 'width': 1920, 'height': 1080}
+2025-07-28 10:56:09,920 - INFO - Ana önizleme güncellendi: {'type': 'window', 'hwnd': 65778}, region: {'top': 0, 'left': 0, 'width': 1920, 'height': 1080}
+2025-07-28 10:56:10,021 - INFO - Önizleme thread'i zaten çalışıyor.
+2025-07-28 10:56:10,352 - INFO - Yeni kayıt hedefi seçildi: Windows Input Experience - Region: {'top': 0, 'left': 0, 'width': 1920, 'height': 1080}
+2025-07-28 10:56:10,388 - INFO - Ana önizleme güncellendi: {'type': 'window', 'hwnd': 197230}, region: {'top': 0, 'left': 0, 'width': 1920, 'height': 1080}
+2025-07-28 10:56:10,488 - INFO - Önizleme thread'i zaten çalışıyor.
+2025-07-28 10:56:11,310 - INFO - Kayıt durdurma sinyali gönderildi.
+2025-07-28 10:56:16,272 - INFO - Kayıt dizini değişikliği iptal edildi.
+2025-07-28 10:56:23,081 - INFO - Kayıt FPS ayarı: 30
+2025-07-28 10:56:23,713 - INFO - Kayıt durdurma sinyali gönderildi.
+2025-07-28 10:56:24,756 - INFO - Uygulama kapatılıyor...
+2025-07-28 10:56:24,756 - INFO - PyAudio terminate edildi.
+2025-07-28 10:56:24,807 - INFO - Uygulama başarıyla kapatıldı.
+2025-07-28 10:56:30,232 - INFO - Arka plan görseli yüklendi: d:\İstanbul Uni Ders Notlarım\assets\images\background.png
+2025-07-28 10:56:30,237 - INFO - Ayarlar ikonu yüklendi: d:\İstanbul Uni Ders Notlarım\assets\images\settings.png
+2025-07-28 10:56:30,781 - INFO - Bulunan mikrofonlar: ['Microsoft Sound Mapper - Input', 'SteelSeries Sonar - Microphone ', 'Mikrofon (2- Arctis 7P+)']
+2025-07-28 10:56:30,848 - INFO - Tespit edilen monitor sayısı: 1
+2025-07-28 10:56:30,849 - INFO - Tespit edilen pencere sayısı: 6
+2025-07-28 10:56:30,947 - INFO - Önizleme thread'i başlatıldı.
+2025-07-28 10:56:32,437 - INFO - Kayıt FPS ayarı: 30
+2025-07-28 10:56:36,983 - INFO - Kayıt durdurma sinyali gönderildi.
+2025-07-28 10:56:41,959 - INFO - Uygulama kapatılıyor...
+2025-07-28 10:56:41,959 - INFO - PyAudio terminate edildi.
+2025-07-28 10:56:42,010 - INFO - Uygulama başarıyla kapatıldı.
+2025-07-28 10:58:28,664 - INFO - Arka plan görseli yüklendi: d:\İstanbul Uni Ders Notlarım\assets\images\background.png
+2025-07-28 10:58:28,673 - INFO - Ayarlar ikonu yüklendi: d:\İstanbul Uni Ders Notlarım\assets\images\settings.png
+2025-07-28 10:58:29,239 - INFO - Bulunan mikrofonlar: ['Microsoft Sound Mapper - Input', 'SteelSeries Sonar - Microphone ', 'Mikrofon (2- Arctis 7P+)']
+2025-07-28 10:58:29,306 - INFO - Tespit edilen monitor sayısı: 1
+2025-07-28 10:58:29,307 - INFO - Tespit edilen pencere sayısı: 8
+2025-07-28 10:58:29,410 - INFO - Önizleme thread'i başlatıldı.
+2025-07-28 10:58:32,865 - INFO - Kayıt FPS ayarı: 30
+2025-07-28 10:58:36,661 - INFO - Yeni kayıt hedefi seçildi: Monitor 1 - Region: {'left': 0, 'top': 0, 'width': 1920, 'height': 1080}
+2025-07-28 10:58:36,711 - INFO - Ana önizleme güncellendi: {'type': 'monitor', 'index': 1}, region: {'left': 0, 'top': 0, 'width': 1920, 'height': 1080}
+2025-07-28 10:58:36,812 - INFO - Önizleme thread'i zaten çalışıyor.
+2025-07-28 10:58:37,792 - INFO - Yeni kayıt hedefi seçildi: ScreenRecord.py - İstanbul Uni Ders Notlarım - Vis... - Region: {'top': -8, 'left': -8, 'width': 1936, 'height': 1048}
+2025-07-28 10:58:37,843 - INFO - Ana önizleme güncellendi: {'type': 'window', 'hwnd': 131960}, region: {'top': -8, 'left': -8, 'width': 1936, 'height': 1048}
+2025-07-28 10:58:37,944 - INFO - Önizleme thread'i zaten çalışıyor.
+2025-07-28 10:58:38,426 - INFO - Yeni kayıt hedefi seçildi: (34) Rex and Asobi compete to see who can land fir... - Region: {'top': -8, 'left': -8, 'width': 1936, 'height': 1048}
+2025-07-28 10:58:38,472 - INFO - Ana önizleme güncellendi: {'type': 'window', 'hwnd': 132066}, region: {'top': -8, 'left': -8, 'width': 1936, 'height': 1048}
+2025-07-28 10:58:38,572 - INFO - Önizleme thread'i zaten çalışıyor.
+2025-07-28 10:58:39,104 - INFO - Yeni kayıt hedefi seçildi: EkranKayitlari - File Explorer - Region: {'top': 0, 'left': 0, 'width': 1919, 'height': 1029}
+2025-07-28 10:58:39,159 - INFO - Ana önizleme güncellendi: {'type': 'window', 'hwnd': 198552}, region: {'top': 0, 'left': 0, 'width': 1919, 'height': 1029}
+2025-07-28 10:58:39,259 - INFO - Önizleme thread'i zaten çalışıyor.
+2025-07-28 10:58:39,477 - INFO - Yeni kayıt hedefi seçildi: Home - File Explorer - Region: {'top': 2, 'left': 0, 'width': 1919, 'height': 1029}
+2025-07-28 10:58:39,523 - INFO - Ana önizleme güncellendi: {'type': 'window', 'hwnd': 4720418}, region: {'top': 2, 'left': 0, 'width': 1919, 'height': 1029}
+2025-07-28 10:58:39,624 - INFO - Önizleme thread'i zaten çalışıyor.
+2025-07-28 10:58:40,069 - INFO - Yeni kayıt hedefi seçildi: Settings - Region: {'top': 8, 'left': 0, 'width': 1920, 'height': 1032}
+2025-07-28 10:58:40,113 - INFO - Ana önizleme güncellendi: {'type': 'window', 'hwnd': 197968}, region: {'top': 8, 'left': 0, 'width': 1920, 'height': 1032}
+2025-07-28 10:58:40,214 - INFO - Önizleme thread'i zaten çalışıyor.
+2025-07-28 10:58:40,499 - INFO - Yeni kayıt hedefi seçildi: Settings - Region: {'top': -8, 'left': -8, 'width': 1936, 'height': 1048}
+2025-07-28 10:58:40,548 - INFO - Ana önizleme güncellendi: {'type': 'window', 'hwnd': 525654}, region: {'top': -8, 'left': -8, 'width': 1936, 'height': 1048}
+2025-07-28 10:58:40,649 - INFO - Önizleme thread'i zaten çalışıyor.
+2025-07-28 10:58:41,277 - INFO - Yeni kayıt hedefi seçildi: Windows Input Experience - Region: {'top': 0, 'left': 0, 'width': 1920, 'height': 1080}
+2025-07-28 10:58:41,321 - INFO - Ana önizleme güncellendi: {'type': 'window', 'hwnd': 197230}, region: {'top': 0, 'left': 0, 'width': 1920, 'height': 1080}
+2025-07-28 10:58:41,422 - INFO - Önizleme thread'i zaten çalışıyor.
+2025-07-28 10:58:41,623 - INFO - Yeni kayıt hedefi seçildi: Program Manager - Region: {'top': 0, 'left': 0, 'width': 1920, 'height': 1080}
+2025-07-28 10:58:41,668 - INFO - Ana önizleme güncellendi: {'type': 'window', 'hwnd': 65778}, region: {'top': 0, 'left': 0, 'width': 1920, 'height': 1080}
+2025-07-28 10:58:41,768 - INFO - Önizleme thread'i zaten çalışıyor.
+2025-07-28 10:58:42,377 - INFO - Yeni kayıt hedefi seçildi: Monitor 1 - Region: {'left': 0, 'top': 0, 'width': 1920, 'height': 1080}
+2025-07-28 10:58:42,428 - INFO - Ana önizleme güncellendi: {'type': 'monitor', 'index': 1}, region: {'left': 0, 'top': 0, 'width': 1920, 'height': 1080}
+2025-07-28 10:58:42,529 - INFO - Önizleme thread'i zaten çalışıyor.
+2025-07-28 10:59:19,466 - INFO - Kayıt durdurma sinyali gönderildi.
+2025-07-28 10:59:37,139 - INFO - Arka plan görseli yüklendi: d:\İstanbul Uni Ders Notlarım\assets\images\background.png
+2025-07-28 10:59:37,144 - INFO - Ayarlar ikonu yüklendi: d:\İstanbul Uni Ders Notlarım\assets\images\settings.png
+2025-07-28 10:59:37,715 - INFO - Bulunan mikrofonlar: ['Microsoft Sound Mapper - Input', 'SteelSeries Sonar - Microphone ', 'Mikrofon (2- Arctis 7P+)']
+2025-07-28 10:59:37,782 - INFO - Tespit edilen monitor sayısı: 1
+2025-07-28 10:59:37,782 - INFO - Tespit edilen pencere sayısı: 5
+2025-07-28 10:59:37,874 - INFO - Önizleme thread'i başlatıldı.
+2025-07-28 10:59:38,693 - INFO - Kayıt FPS ayarı: 30
+2025-07-28 10:59:40,387 - INFO - Yeni kayıt hedefi seçildi: Monitor 1 - Region: {'left': 0, 'top': 0, 'width': 1920, 'height': 1080}
+2025-07-28 10:59:40,415 - INFO - Ana önizleme güncellendi: {'type': 'monitor', 'index': 1}, region: {'left': 0, 'top': 0, 'width': 1920, 'height': 1080}
+2025-07-28 10:59:40,515 - INFO - Önizleme thread'i zaten çalışıyor.
+2025-07-28 10:59:41,309 - INFO - Yeni kayıt hedefi seçildi: ScreenRecord.py - İstanbul Uni Ders Notlarım - Vis... - Region: {'top': -8, 'left': -8, 'width': 1936, 'height': 1048}
+2025-07-28 10:59:41,337 - INFO - Ana önizleme güncellendi: {'type': 'window', 'hwnd': 131960}, region: {'top': -8, 'left': -8, 'width': 1936, 'height': 1048}
+2025-07-28 10:59:41,438 - INFO - Önizleme thread'i zaten çalışıyor.
+2025-07-28 10:59:41,622 - INFO - Yeni kayıt hedefi seçildi: Settings - Region: {'top': -8, 'left': -8, 'width': 1936, 'height': 1048}
+2025-07-28 10:59:41,651 - INFO - Ana önizleme güncellendi: {'type': 'window', 'hwnd': 525654}, region: {'top': -8, 'left': -8, 'width': 1936, 'height': 1048}
+2025-07-28 10:59:41,751 - INFO - Önizleme thread'i zaten çalışıyor.
+2025-07-28 10:59:41,953 - INFO - Yeni kayıt hedefi seçildi: Windows Input Experience - Region: {'top': 0, 'left': 0, 'width': 1920, 'height': 1080}
+2025-07-28 10:59:41,989 - INFO - Ana önizleme güncellendi: {'type': 'window', 'hwnd': 197230}, region: {'top': 0, 'left': 0, 'width': 1920, 'height': 1080}
+2025-07-28 10:59:42,089 - INFO - Önizleme thread'i zaten çalışıyor.
+2025-07-28 10:59:42,176 - INFO - Yeni kayıt hedefi seçildi: Program Manager - Region: {'top': 0, 'left': 0, 'width': 1920, 'height': 1080}
+2025-07-28 10:59:42,207 - INFO - Ana önizleme güncellendi: {'type': 'window', 'hwnd': 65778}, region: {'top': 0, 'left': 0, 'width': 1920, 'height': 1080}
+2025-07-28 10:59:42,307 - INFO - Önizleme thread'i zaten çalışıyor.
+2025-07-28 10:59:42,393 - INFO - Yeni kayıt hedefi seçildi: Program Manager - Region: {'top': 0, 'left': 0, 'width': 1920, 'height': 1080}
+2025-07-28 10:59:42,430 - INFO - Ana önizleme güncellendi: {'type': 'window', 'hwnd': 65778}, region: {'top': 0, 'left': 0, 'width': 1920, 'height': 1080}
+2025-07-28 10:59:42,531 - INFO - Önizleme thread'i zaten çalışıyor.
+2025-07-28 10:59:42,617 - INFO - Yeni kayıt hedefi seçildi: Settings - Region: {'top': 8, 'left': 0, 'width': 1920, 'height': 1032}
+2025-07-28 10:59:42,647 - INFO - Ana önizleme güncellendi: {'type': 'window', 'hwnd': 197968}, region: {'top': 8, 'left': 0, 'width': 1920, 'height': 1032}
+2025-07-28 10:59:42,748 - INFO - Önizleme thread'i zaten çalışıyor.
+2025-07-28 10:59:42,846 - INFO - Yeni kayıt hedefi seçildi: Monitor 1 - Region: {'left': 0, 'top': 0, 'width': 1920, 'height': 1080}
+2025-07-28 10:59:42,875 - INFO - Ana önizleme güncellendi: {'type': 'monitor', 'index': 1}, region: {'left': 0, 'top': 0, 'width': 1920, 'height': 1080}
+2025-07-28 10:59:42,976 - INFO - Önizleme thread'i zaten çalışıyor.
+2025-07-28 10:59:43,076 - INFO - Yeni kayıt hedefi seçildi: Monitor 1 - Region: {'left': 0, 'top': 0, 'width': 1920, 'height': 1080}
+2025-07-28 10:59:43,103 - INFO - Ana önizleme güncellendi: {'type': 'monitor', 'index': 1}, region: {'left': 0, 'top': 0, 'width': 1920, 'height': 1080}
+2025-07-28 10:59:43,204 - INFO - Önizleme thread'i zaten çalışıyor.
+2025-07-28 10:59:48,875 - INFO - Kayıt durdurma sinyali gönderildi.
+2025-07-28 11:03:43,281 - INFO - Arka plan görseli yüklendi: d:\İstanbul Uni Ders Notlarım\assets\images\background.png
+2025-07-28 11:03:43,286 - INFO - Ayarlar ikonu yüklendi: d:\İstanbul Uni Ders Notlarım\assets\images\settings.png
+2025-07-28 11:03:43,842 - INFO - Bulunan mikrofonlar: ['Microsoft Sound Mapper - Input', 'SteelSeries Sonar - Microphone ', 'Mikrofon (2- Arctis 7P+)']
+2025-07-28 11:03:43,910 - INFO - Tespit edilen monitor sayısı: 1
+2025-07-28 11:03:43,911 - INFO - Tespit edilen pencere sayısı: 6
+2025-07-28 11:03:44,025 - INFO - Önizleme thread'i başlatıldı.
+2025-07-28 11:03:45,181 - INFO - Kayıt FPS ayarı: 30
+2025-07-28 11:03:45,183 - INFO - Video kaydı başlatılıyor: C:\Users\risva\EkranKayitlari\ekran_kaydi_20250728_110345.mp4
+2025-07-28 11:03:45,183 - INFO - Ses kaydı başlatılıyor: C:\Users\risva\EkranKayitlari\ses_kaydi_20250728_110345.wav
+2025-07-28 11:03:45,183 - INFO - Ses kaydı başlatılıyor: C:\Users\risva\EkranKayitlari\ses_kaydi_20250728_110345.wav (Cihaz Indeksi: 0)
+2025-07-28 11:03:49,686 - INFO - Kayıt durdurma sinyali gönderildi.
+2025-07-28 11:03:49,686 - INFO - Ses kayıt thread'inin bitmesi bekleniyor...
+2025-07-28 11:03:49,696 - INFO - Ses akışı durduruldu.
+2025-07-28 11:03:49,712 - INFO - Ses dosyası kaydedildi: C:\Users\risva\EkranKayitlari\ses_kaydi_20250728_110345.wav
+2025-07-28 11:03:49,719 - INFO - Ses kayıt thread'i başarıyla sonlandı.
+2025-07-28 11:05:20,044 - INFO - Kayıt FPS ayarı: 30
+2025-07-28 11:05:20,045 - INFO - Video kaydı başlatılıyor: C:\Users\risva\EkranKayitlari\ekran_kaydi_20250728_110520.mp4
+2025-07-28 11:05:20,046 - INFO - Ses kaydı başlatılıyor: C:\Users\risva\EkranKayitlari\ses_kaydi_20250728_110520.wav
+2025-07-28 11:05:20,046 - INFO - Ses kaydı başlatılıyor: C:\Users\risva\EkranKayitlari\ses_kaydi_20250728_110520.wav (Cihaz Indeksi: 0)
+2025-07-28 11:05:21,424 - INFO - Yeni kayıt hedefi seçildi: Monitor 1 - Region: {'left': 0, 'top': 0, 'width': 1920, 'height': 1080}
+2025-07-28 11:05:21,466 - INFO - Ana önizleme güncellendi: {'type': 'monitor', 'index': 1}, region: {'left': 0, 'top': 0, 'width': 1920, 'height': 1080}
+2025-07-28 11:05:21,567 - INFO - Önizleme thread'i zaten çalışıyor.
+2025-07-28 11:05:22,196 - INFO - Yeni kayıt hedefi seçildi: ScreenRecord.py - İstanbul Uni Ders Notlarım - Vis... - Region: {'top': -8, 'left': -8, 'width': 1936, 'height': 1048}
+2025-07-28 11:05:22,232 - INFO - Ana önizleme güncellendi: {'type': 'window', 'hwnd': 131960}, region: {'top': -8, 'left': -8, 'width': 1936, 'height': 1048}
+2025-07-28 11:05:22,333 - INFO - Önizleme thread'i zaten çalışıyor.
+2025-07-28 11:05:22,583 - INFO - Yeni kayıt hedefi seçildi: (34) Altın fiyatı nasıl hesaplanır ? - YouTube - G... - Region: {'top': -8, 'left': -8, 'width': 1936, 'height': 1048}
+2025-07-28 11:05:22,622 - INFO - Ana önizleme güncellendi: {'type': 'window', 'hwnd': 132066}, region: {'top': -8, 'left': -8, 'width': 1936, 'height': 1048}
+2025-07-28 11:05:22,722 - INFO - Önizleme thread'i zaten çalışıyor.
+2025-07-28 11:05:22,857 - INFO - Yeni kayıt hedefi seçildi: Settings - Region: {'top': 8, 'left': 0, 'width': 1920, 'height': 1032}
+2025-07-28 11:05:22,897 - INFO - Ana önizleme güncellendi: {'type': 'window', 'hwnd': 197968}, region: {'top': 8, 'left': 0, 'width': 1920, 'height': 1032}
+2025-07-28 11:05:22,997 - INFO - Önizleme thread'i zaten çalışıyor.
+2025-07-28 11:05:23,419 - INFO - Yeni kayıt hedefi seçildi: Program Manager - Region: {'top': 0, 'left': 0, 'width': 1920, 'height': 1080}
+2025-07-28 11:05:23,455 - INFO - Ana önizleme güncellendi: {'type': 'window', 'hwnd': 65778}, region: {'top': 0, 'left': 0, 'width': 1920, 'height': 1080}
+2025-07-28 11:05:23,555 - INFO - Önizleme thread'i zaten çalışıyor.
+2025-07-28 11:05:23,710 - INFO - Yeni kayıt hedefi seçildi: Settings - Region: {'top': -8, 'left': -8, 'width': 1936, 'height': 1048}
+2025-07-28 11:05:23,746 - INFO - Ana önizleme güncellendi: {'type': 'window', 'hwnd': 525654}, region: {'top': -8, 'left': -8, 'width': 1936, 'height': 1048}
+2025-07-28 11:05:23,846 - INFO - Önizleme thread'i zaten çalışıyor.
+2025-07-28 11:05:24,311 - INFO - Yeni kayıt hedefi seçildi: ScreenRecord.py - İstanbul Uni Ders Notlarım - Vis... - Region: {'top': -8, 'left': -8, 'width': 1936, 'height': 1048}
+2025-07-28 11:05:24,347 - INFO - Ana önizleme güncellendi: {'type': 'window', 'hwnd': 131960}, region: {'top': -8, 'left': -8, 'width': 1936, 'height': 1048}
+2025-07-28 11:05:24,447 - INFO - Önizleme thread'i zaten çalışıyor.
+2025-07-28 11:05:24,516 - INFO - Yeni kayıt hedefi seçildi: Monitor 1 - Region: {'left': 0, 'top': 0, 'width': 1920, 'height': 1080}
+2025-07-28 11:05:24,561 - INFO - Ana önizleme güncellendi: {'type': 'monitor', 'index': 1}, region: {'left': 0, 'top': 0, 'width': 1920, 'height': 1080}
+2025-07-28 11:05:24,662 - INFO - Önizleme thread'i zaten çalışıyor.
+2025-07-28 11:05:26,972 - INFO - Yeni kayıt hedefi seçildi: ScreenRecord.py - İstanbul Uni Ders Notlarım - Vis... - Region: {'top': -8, 'left': -8, 'width': 1936, 'height': 1048}
+2025-07-28 11:05:27,007 - INFO - Ana önizleme güncellendi: {'type': 'window', 'hwnd': 131960}, region: {'top': -8, 'left': -8, 'width': 1936, 'height': 1048}
+2025-07-28 11:05:27,108 - INFO - Önizleme thread'i zaten çalışıyor.
+2025-07-28 11:05:28,560 - INFO - Yeni kayıt hedefi seçildi: (34) Altın fiyatı nasıl hesaplanır ? - YouTube - G... - Region: {'top': -8, 'left': -8, 'width': 1936, 'height': 1048}
+2025-07-28 11:05:28,597 - INFO - Ana önizleme güncellendi: {'type': 'window', 'hwnd': 132066}, region: {'top': -8, 'left': -8, 'width': 1936, 'height': 1048}
+2025-07-28 11:05:28,698 - INFO - Önizleme thread'i zaten çalışıyor.
+2025-07-28 11:05:28,908 - INFO - Yeni kayıt hedefi seçildi: Settings - Region: {'top': 8, 'left': 0, 'width': 1920, 'height': 1032}
+2025-07-28 11:05:28,948 - INFO - Ana önizleme güncellendi: {'type': 'window', 'hwnd': 197968}, region: {'top': 8, 'left': 0, 'width': 1920, 'height': 1032}
+2025-07-28 11:05:29,048 - INFO - Önizleme thread'i zaten çalışıyor.
+2025-07-28 11:05:29,206 - INFO - Yeni kayıt hedefi seçildi: Settings - Region: {'top': -8, 'left': -8, 'width': 1936, 'height': 1048}
+2025-07-28 11:05:29,241 - INFO - Ana önizleme güncellendi: {'type': 'window', 'hwnd': 525654}, region: {'top': -8, 'left': -8, 'width': 1936, 'height': 1048}
+2025-07-28 11:05:29,342 - INFO - Önizleme thread'i zaten çalışıyor.
+2025-07-28 11:05:29,570 - INFO - Yeni kayıt hedefi seçildi: Windows Input Experience - Region: {'top': 0, 'left': 0, 'width': 1920, 'height': 1080}
+2025-07-28 11:05:29,609 - INFO - Ana önizleme güncellendi: {'type': 'window', 'hwnd': 197230}, region: {'top': 0, 'left': 0, 'width': 1920, 'height': 1080}
+2025-07-28 11:05:29,710 - INFO - Önizleme thread'i zaten çalışıyor.
+2025-07-28 11:05:29,811 - INFO - Yeni kayıt hedefi seçildi: Program Manager - Region: {'top': 0, 'left': 0, 'width': 1920, 'height': 1080}
+2025-07-28 11:05:29,846 - INFO - Ana önizleme güncellendi: {'type': 'window', 'hwnd': 65778}, region: {'top': 0, 'left': 0, 'width': 1920, 'height': 1080}
+2025-07-28 11:05:29,946 - INFO - Önizleme thread'i zaten çalışıyor.
+2025-07-28 11:05:30,386 - INFO - Yeni kayıt hedefi seçildi: Monitor 1 - Region: {'left': 0, 'top': 0, 'width': 1920, 'height': 1080}
+2025-07-28 11:05:30,422 - INFO - Ana önizleme güncellendi: {'type': 'monitor', 'index': 1}, region: {'left': 0, 'top': 0, 'width': 1920, 'height': 1080}
+2025-07-28 11:05:30,522 - INFO - Önizleme thread'i zaten çalışıyor.
+2025-07-28 11:05:33,781 - INFO - Kayıt durdurma sinyali gönderildi.
+2025-07-28 11:05:33,781 - INFO - Ses kayıt thread'inin bitmesi bekleniyor...
+2025-07-28 11:05:33,793 - INFO - Ses akışı durduruldu.
+2025-07-28 11:05:33,809 - INFO - Ses dosyası kaydedildi: C:\Users\risva\EkranKayitlari\ses_kaydi_20250728_110520.wav
+2025-07-28 11:05:33,811 - INFO - Ses kayıt thread'i başarıyla sonlandı.
+2025-07-28 11:08:23,053 - INFO - Arka plan görseli yüklendi: d:\İstanbul Uni Ders Notlarım\assets\images\background.png
+2025-07-28 11:08:23,058 - INFO - Ayarlar ikonu yüklendi: d:\İstanbul Uni Ders Notlarım\assets\images\settings.png
+2025-07-28 11:08:23,615 - INFO - Bulunan mikrofonlar: ['Microsoft Sound Mapper - Input', 'SteelSeries Sonar - Microphone ', 'Mikrofon (2- Arctis 7P+)']
+2025-07-28 11:08:23,678 - INFO - Tespit edilen monitor sayısı: 1
+2025-07-28 11:08:23,679 - INFO - Tespit edilen pencere sayısı: 7
+2025-07-28 11:08:23,777 - INFO - Önizleme thread'i başlatıldı.
+2025-07-28 11:08:24,600 - INFO - Kayıt FPS ayarı: 30
+2025-07-28 11:08:24,602 - INFO - Video kaydı başlatılıyor: C:\Users\risva\EkranKayitlari\ekran_kaydi_20250728_110824.mp4
+2025-07-28 11:08:24,602 - INFO - Ses kaydı başlatılıyor: C:\Users\risva\EkranKayitlari\ses_kaydi_20250728_110824.wav
+2025-07-28 11:08:24,603 - INFO - Ses kaydı başlatılıyor: C:\Users\risva\EkranKayitlari\ses_kaydi_20250728_110824.wav (Cihaz Indeksi: 0)
+2025-07-28 11:08:24,659 - INFO - Video yazıcısı başarıyla açıldı.
+2025-07-28 11:08:26,621 - INFO - Yeni kayıt hedefi seçildi: Monitor 1 - Region: {'left': 0, 'top': 0, 'width': 1920, 'height': 1080}
+2025-07-28 11:08:26,661 - INFO - Ana önizleme güncellendi: {'type': 'monitor', 'index': 1}, region: {'left': 0, 'top': 0, 'width': 1920, 'height': 1080}
+2025-07-28 11:08:26,761 - INFO - Önizleme thread'i zaten çalışıyor.
+2025-07-28 11:08:27,350 - INFO - Yeni kayıt hedefi seçildi: ScreenRecord.py - İstanbul Uni Ders Notlarım - Vis... - Region: {'top': -8, 'left': -8, 'width': 1936, 'height': 1048}
+2025-07-28 11:08:27,391 - INFO - Ana önizleme güncellendi: {'type': 'window', 'hwnd': 131960}, region: {'top': -8, 'left': -8, 'width': 1936, 'height': 1048}
+2025-07-28 11:08:27,492 - INFO - Önizleme thread'i zaten çalışıyor.
+2025-07-28 11:08:27,704 - INFO - Yeni kayıt hedefi seçildi: ScreenRecord.py - İstanbul Uni Ders Notlarım - Vis... - Region: {'top': -8, 'left': -8, 'width': 1936, 'height': 1048}
+2025-07-28 11:08:27,743 - INFO - Ana önizleme güncellendi: {'type': 'window', 'hwnd': 131960}, region: {'top': -8, 'left': -8, 'width': 1936, 'height': 1048}
+2025-07-28 11:08:27,844 - INFO - Önizleme thread'i zaten çalışıyor.
+2025-07-28 11:08:27,949 - INFO - Yeni kayıt hedefi seçildi: (34) Zeytinburnu Belediyesi'nden büyük beğeni topl... - Region: {'top': -8, 'left': -8, 'width': 1936, 'height': 1048}
+2025-07-28 11:08:27,993 - INFO - Ana önizleme güncellendi: {'type': 'window', 'hwnd': 132066}, region: {'top': -8, 'left': -8, 'width': 1936, 'height': 1048}
+2025-07-28 11:08:28,096 - INFO - Önizleme thread'i zaten çalışıyor.
+2025-07-28 11:08:28,299 - INFO - Yeni kayıt hedefi seçildi: Settings - Region: {'top': 8, 'left': 0, 'width': 1920, 'height': 1032}
+2025-07-28 11:08:28,341 - INFO - Ana önizleme güncellendi: {'type': 'window', 'hwnd': 197968}, region: {'top': 8, 'left': 0, 'width': 1920, 'height': 1032}
+2025-07-28 11:08:28,441 - INFO - Önizleme thread'i zaten çalışıyor.
+2025-07-28 11:08:28,781 - INFO - Yeni kayıt hedefi seçildi: Home - File Explorer - Region: {'top': 2, 'left': 0, 'width': 1919, 'height': 1029}
+2025-07-28 11:08:28,844 - INFO - Ana önizleme güncellendi: {'type': 'window', 'hwnd': 4720418}, region: {'top': 2, 'left': 0, 'width': 1919, 'height': 1029}
+2025-07-28 11:08:28,945 - INFO - Önizleme thread'i zaten çalışıyor.
+2025-07-28 11:08:29,030 - INFO - Yeni kayıt hedefi seçildi: Settings - Region: {'top': -8, 'left': -8, 'width': 1936, 'height': 1048}
+2025-07-28 11:08:29,078 - INFO - Ana önizleme güncellendi: {'type': 'window', 'hwnd': 525654}, region: {'top': -8, 'left': -8, 'width': 1936, 'height': 1048}
+2025-07-28 11:08:29,179 - INFO - Önizleme thread'i zaten çalışıyor.
+2025-07-28 11:08:29,317 - INFO - Yeni kayıt hedefi seçildi: Windows Input Experience - Region: {'top': 0, 'left': 0, 'width': 1920, 'height': 1080}
+2025-07-28 11:08:29,360 - INFO - Ana önizleme güncellendi: {'type': 'window', 'hwnd': 197230}, region: {'top': 0, 'left': 0, 'width': 1920, 'height': 1080}
+2025-07-28 11:08:29,461 - INFO - Önizleme thread'i zaten çalışıyor.
+2025-07-28 11:08:29,587 - INFO - Yeni kayıt hedefi seçildi: Program Manager - Region: {'top': 0, 'left': 0, 'width': 1920, 'height': 1080}
+2025-07-28 11:08:29,633 - INFO - Ana önizleme güncellendi: {'type': 'window', 'hwnd': 65778}, region: {'top': 0, 'left': 0, 'width': 1920, 'height': 1080}
+2025-07-28 11:08:29,734 - INFO - Önizleme thread'i zaten çalışıyor.
+2025-07-28 11:08:30,348 - INFO - Yeni kayıt hedefi seçildi: ScreenRecord.py - İstanbul Uni Ders Notlarım - Vis... - Region: {'top': -8, 'left': -8, 'width': 1936, 'height': 1048}
+2025-07-28 11:08:30,399 - INFO - Ana önizleme güncellendi: {'type': 'window', 'hwnd': 131960}, region: {'top': -8, 'left': -8, 'width': 1936, 'height': 1048}
+2025-07-28 11:08:30,500 - INFO - Önizleme thread'i zaten çalışıyor.
+2025-07-28 11:08:30,589 - INFO - Yeni kayıt hedefi seçildi: Monitor 1 - Region: {'left': 0, 'top': 0, 'width': 1920, 'height': 1080}
+2025-07-28 11:08:30,635 - INFO - Ana önizleme güncellendi: {'type': 'monitor', 'index': 1}, region: {'left': 0, 'top': 0, 'width': 1920, 'height': 1080}
+2025-07-28 11:08:30,736 - INFO - Önizleme thread'i zaten çalışıyor.
+2025-07-28 11:08:32,116 - INFO - Kayıt durdurma sinyali gönderildi.
+2025-07-28 11:08:32,117 - INFO - Video kayıt thread'inin bitmesi bekleniyor...
+2025-07-28 11:08:32,123 - INFO - Ses akışı durduruldu.
+2025-07-28 11:08:32,139 - INFO - Ses dosyası kaydedildi: C:\Users\risva\EkranKayitlari\ses_kaydi_20250728_110824.wav
+2025-07-28 11:08:32,140 - INFO - Ses kayıt thread'i sonlandı.
+2025-07-28 11:08:32,172 - INFO - Video yazıcısı serbest bırakıldı.
+2025-07-28 11:08:32,172 - INFO - Kayıt thread'i sonlandı.
+2025-07-28 11:08:32,174 - INFO - Video kayıt thread'i başarıyla sonlandı.
+2025-07-28 11:09:00,592 - INFO - Kayıt FPS ayarı: 30
+2025-07-28 11:09:00,593 - INFO - Video kaydı başlatılıyor: C:\Users\risva\EkranKayitlari\ekran_kaydi_20250728_110900.mp4
+2025-07-28 11:09:00,594 - INFO - Ses kaydı başlatılıyor: C:\Users\risva\EkranKayitlari\ses_kaydi_20250728_110900.wav
+2025-07-28 11:09:00,594 - INFO - Ses kaydı başlatılıyor: C:\Users\risva\EkranKayitlari\ses_kaydi_20250728_110900.wav (Cihaz Indeksi: 0)
+2025-07-28 11:09:00,601 - INFO - Video yazıcısı başarıyla açıldı.
+2025-07-28 11:09:02,636 - INFO - Yeni kayıt hedefi seçildi: ScreenRecord.py - İstanbul Uni Ders Notlarım - Vis... - Region: {'top': -8, 'left': -8, 'width': 1936, 'height': 1048}
+2025-07-28 11:09:02,681 - INFO - Ana önizleme güncellendi: {'type': 'window', 'hwnd': 131960}, region: {'top': -8, 'left': -8, 'width': 1936, 'height': 1048}
+2025-07-28 11:09:02,782 - INFO - Önizleme thread'i zaten çalışıyor.
+2025-07-28 11:09:04,538 - INFO - Yeni kayıt hedefi seçildi: Monitor 1 - Region: {'left': 0, 'top': 0, 'width': 1920, 'height': 1080}
+2025-07-28 11:09:04,588 - INFO - Ana önizleme güncellendi: {'type': 'monitor', 'index': 1}, region: {'left': 0, 'top': 0, 'width': 1920, 'height': 1080}
+2025-07-28 11:09:04,689 - INFO - Önizleme thread'i zaten çalışıyor.
+2025-07-28 11:09:05,597 - INFO - Yeni kayıt hedefi seçildi: (34) Zeytinburnu Belediyesi'nden büyük beğeni topl... - Region: {'top': -8, 'left': -8, 'width': 1936, 'height': 1048}
+2025-07-28 11:09:05,641 - INFO - Ana önizleme güncellendi: {'type': 'window', 'hwnd': 132066}, region: {'top': -8, 'left': -8, 'width': 1936, 'height': 1048}
+2025-07-28 11:09:05,742 - INFO - Önizleme thread'i zaten çalışıyor.
+2025-07-28 11:09:06,463 - INFO - Yeni kayıt hedefi seçildi: (34) Zeytinburnu Belediyesi'nden büyük beğeni topl... - Region: {'top': -8, 'left': -8, 'width': 1936, 'height': 1048}
+2025-07-28 11:09:06,507 - INFO - Ana önizleme güncellendi: {'type': 'window', 'hwnd': 132066}, region: {'top': -8, 'left': -8, 'width': 1936, 'height': 1048}
+2025-07-28 11:09:06,608 - INFO - Önizleme thread'i zaten çalışıyor.
+2025-07-28 11:09:07,147 - INFO - Yeni kayıt hedefi seçildi: Home - File Explorer - Region: {'top': 2, 'left': 0, 'width': 1919, 'height': 1029}
+2025-07-28 11:09:07,202 - INFO - Ana önizleme güncellendi: {'type': 'window', 'hwnd': 4720418}, region: {'top': 2, 'left': 0, 'width': 1919, 'height': 1029}
+2025-07-28 11:09:07,302 - INFO - Önizleme thread'i zaten çalışıyor.
+2025-07-28 11:09:07,583 - INFO - Yeni kayıt hedefi seçildi: (34) Zeytinburnu Belediyesi'nden büyük beğeni topl... - Region: {'top': -8, 'left': -8, 'width': 1936, 'height': 1048}
+2025-07-28 11:09:07,630 - INFO - Ana önizleme güncellendi: {'type': 'window', 'hwnd': 132066}, region: {'top': -8, 'left': -8, 'width': 1936, 'height': 1048}
+2025-07-28 11:09:07,731 - INFO - Önizleme thread'i zaten çalışıyor.
+2025-07-28 11:09:19,744 - INFO - Yeni kayıt hedefi seçildi: Home - File Explorer - Region: {'top': 2, 'left': 0, 'width': 1919, 'height': 1029}
+2025-07-28 11:09:19,802 - INFO - Ana önizleme güncellendi: {'type': 'window', 'hwnd': 4720418}, region: {'top': 2, 'left': 0, 'width': 1919, 'height': 1029}
+2025-07-28 11:09:19,903 - INFO - Önizleme thread'i zaten çalışıyor.
+2025-07-28 11:09:20,758 - INFO - Yeni kayıt hedefi seçildi: Settings - Region: {'top': 8, 'left': 0, 'width': 1920, 'height': 1032}
+2025-07-28 11:09:20,811 - INFO - Ana önizleme güncellendi: {'type': 'window', 'hwnd': 197968}, region: {'top': 8, 'left': 0, 'width': 1920, 'height': 1032}
+2025-07-28 11:09:20,912 - INFO - Önizleme thread'i zaten çalışıyor.
+2025-07-28 11:09:21,050 - INFO - Yeni kayıt hedefi seçildi: Settings - Region: {'top': -8, 'left': -8, 'width': 1936, 'height': 1048}
+2025-07-28 11:09:21,095 - INFO - Ana önizleme güncellendi: {'type': 'window', 'hwnd': 525654}, region: {'top': -8, 'left': -8, 'width': 1936, 'height': 1048}
+2025-07-28 11:09:21,195 - INFO - Önizleme thread'i zaten çalışıyor.
+2025-07-28 11:09:21,385 - INFO - Yeni kayıt hedefi seçildi: Windows Input Experience - Region: {'top': 0, 'left': 0, 'width': 1920, 'height': 1080}
+2025-07-28 11:09:21,437 - INFO - Ana önizleme güncellendi: {'type': 'window', 'hwnd': 197230}, region: {'top': 0, 'left': 0, 'width': 1920, 'height': 1080}
+2025-07-28 11:09:21,538 - INFO - Önizleme thread'i zaten çalışıyor.
+2025-07-28 11:09:21,668 - INFO - Yeni kayıt hedefi seçildi: Program Manager - Region: {'top': 0, 'left': 0, 'width': 1920, 'height': 1080}
+2025-07-28 11:09:21,715 - INFO - Ana önizleme güncellendi: {'type': 'window', 'hwnd': 65778}, region: {'top': 0, 'left': 0, 'width': 1920, 'height': 1080}
+2025-07-28 11:09:21,815 - INFO - Önizleme thread'i zaten çalışıyor.
+2025-07-28 11:10:02,754 - INFO - Kayıt durdurma sinyali gönderildi.
+2025-07-28 11:10:02,754 - INFO - Video kayıt thread'inin bitmesi bekleniyor...
+2025-07-28 11:10:02,759 - INFO - Ses akışı durduruldu.
+2025-07-28 11:10:02,787 - INFO - Ses dosyası kaydedildi: C:\Users\risva\EkranKayitlari\ses_kaydi_20250728_110900.wav
+2025-07-28 11:10:02,787 - INFO - Ses kayıt thread'i sonlandı.
+2025-07-28 11:10:02,796 - INFO - Video yazıcısı serbest bırakıldı.
+2025-07-28 11:10:02,797 - INFO - Kayıt thread'i sonlandı.
+2025-07-28 11:10:02,799 - INFO - Video kayıt thread'i başarıyla sonlandı.
+2025-07-28 11:13:58,189 - INFO - Uygulama kapatılıyor...
+2025-07-28 11:13:58,189 - INFO - PyAudio terminate edildi.
+2025-07-28 11:13:58,247 - INFO - Uygulama başarıyla kapatıldı.
+2025-07-28 11:16:59,152 - INFO - Arka plan görseli yüklendi: d:\İstanbul Uni Ders Notlarım\assets\images\background.png
+2025-07-28 11:16:59,157 - INFO - Ayarlar ikonu yüklendi: d:\İstanbul Uni Ders Notlarım\assets\images\settings.png
+2025-07-28 11:16:59,763 - INFO - Bulunan mikrofonlar: ['Microsoft Sound Mapper - Input', 'SteelSeries Sonar - Microphone ', 'Mikrofon (2- Arctis 7P+)']
+2025-07-28 11:16:59,830 - INFO - Tespit edilen monitor sayısı: 1
+2025-07-28 11:16:59,831 - INFO - Tespit edilen pencere sayısı: 8
+2025-07-28 11:16:59,936 - INFO - Önizleme thread'i başlatıldı.
+2025-07-28 11:31:52,593 - INFO - Arka plan görseli yüklendi: d:\İstanbul Uni Ders Notlarım\assets\images\background.png
+2025-07-28 11:31:52,597 - INFO - Ayarlar ikonu yüklendi: d:\İstanbul Uni Ders Notlarım\assets\images\settings.png
+2025-07-28 11:31:53,156 - INFO - Bulunan mikrofonlar: ['Microsoft Sound Mapper - Input', 'SteelSeries Sonar - Microphone ', 'Mikrofon (2- Arctis 7P+)']
+2025-07-28 11:31:53,222 - INFO - Tespit edilen monitor sayısı: 1
+2025-07-28 11:31:53,222 - INFO - Tespit edilen pencere sayısı: 7
+2025-07-28 11:31:53,330 - INFO - Önizleme thread'i başlatıldı.
+2025-07-28 11:31:55,902 - INFO - Kayıt FPS ayarı: 30
+2025-07-28 11:31:55,904 - INFO - Video kaydı başlatılıyor: C:\Users\risva\EkranKayitlari\ekran_kaydi_20250728_113155.mp4
+2025-07-28 11:31:55,905 - INFO - Ses kaydı başlatılıyor: C:\Users\risva\EkranKayitlari\ses_kaydi_20250728_113155.wav
+2025-07-28 11:31:55,905 - INFO - Ses kaydı başlatılıyor: C:\Users\risva\EkranKayitlari\ses_kaydi_20250728_113155.wav (Cihaz Indeksi: 0)
+2025-07-28 11:31:55,910 - INFO - Video yazıcısı başarıyla açıldı.
+2025-07-28 11:32:10,029 - INFO - Kayıt durdurma sinyali gönderildi.
+2025-07-28 11:32:10,029 - INFO - Video kayıt thread'inin bitmesi bekleniyor...
+2025-07-28 11:32:10,049 - INFO - Ses akışı durduruldu.
+2025-07-28 11:32:10,062 - ERROR - Ses kaydı sırasında hata oluştu: [Errno 28] No space left on device
+2025-07-28 11:32:10,094 - INFO - Video yazıcısı serbest bırakıldı.
+2025-07-28 11:32:10,094 - INFO - Kayıt thread'i sonlandı.
+2025-07-28 11:32:10,096 - INFO - Video kayıt thread'i başarıyla sonlandı.
+2025-07-28 11:32:10,096 - INFO - Ses kayıt thread'inin bitmesi bekleniyor...
+2025-07-28 11:32:20,107 - WARNING - Uyarı: Ses kayıt thread'i zaman aşımına uğradı.
+2025-07-28 11:32:20,110 - INFO - Ses kayıt thread'i sonlandı.
+2025-07-28 11:39:55,316 - INFO - Arka plan görseli yüklendi: d:\İstanbul Uni Ders Notlarım\assets\images\background.png
+2025-07-28 11:39:55,321 - INFO - Ayarlar ikonu yüklendi: d:\İstanbul Uni Ders Notlarım\assets\images\settings.png
+2025-07-28 11:39:55,933 - INFO - Bulunan mikrofonlar: ['Microsoft Sound Mapper - Input', 'SteelSeries Sonar - Microphone ', 'Mikrofon (2- Arctis 7P+)']
+2025-07-28 11:39:56,004 - INFO - Tespit edilen monitor sayısı: 1
+2025-07-28 11:39:56,004 - INFO - Tespit edilen pencere sayısı: 8
+2025-07-28 11:39:56,118 - INFO - Önizleme thread'i başlatıldı.
+2025-07-28 11:40:08,632 - INFO - Uygulama kapatılıyor...
+2025-07-28 11:40:08,632 - INFO - PyAudio terminate edildi.
+2025-07-28 11:40:08,698 - INFO - Uygulama başarıyla kapatıldı.
+2025-07-28 11:47:58,130 - INFO - Arka plan görseli yüklendi: d:\İstanbul Uni Ders Notlarım\assets\images\background.png
+2025-07-28 11:47:58,742 - INFO - Bulunan mikrofonlar: ['Microsoft Sound Mapper - Input', 'SteelSeries Sonar - Microphone ', 'Mikrofon (2- Arctis 7P+)']
+2025-07-28 11:47:58,806 - INFO - Tespit edilen monitor sayısı: 1
+2025-07-28 11:47:58,807 - INFO - Tespit edilen pencere sayısı: 8
+2025-07-28 11:47:58,919 - INFO - Önizleme thread'i başlatıldı.
+2025-07-28 11:48:01,144 - INFO - Yeni kayıt hedefi seçildi: (34) Men of Honor (2000) | The 12 steps represent ... - Region: {'top': -8, 'left': -8, 'width': 1936, 'height': 1048}
+2025-07-28 11:48:01,197 - INFO - Ana önizleme güncellendi: {'type': 'window', 'hwnd': 132066}, region: {'top': -8, 'left': -8, 'width': 1936, 'height': 1048}
+2025-07-28 11:48:01,298 - INFO - Önizleme thread'i zaten çalışıyor.
+2025-07-28 11:48:01,602 - INFO - Yeni kayıt hedefi seçildi: Mount & Blade II: Bannerlord - Region: {'top': 215, 'left': 537, 'width': 842, 'height': 601}
+2025-07-28 11:48:01,655 - INFO - Ana önizleme güncellendi: {'type': 'window', 'hwnd': 461702}, region: {'top': 215, 'left': 537, 'width': 842, 'height': 601}
+2025-07-28 11:48:01,756 - INFO - Önizleme thread'i zaten çalışıyor.
+2025-07-28 11:48:01,831 - INFO - Yeni kayıt hedefi seçildi: Settings - Region: {'top': 8, 'left': 0, 'width': 1920, 'height': 1032}
+2025-07-28 11:48:01,884 - INFO - Ana önizleme güncellendi: {'type': 'window', 'hwnd': 197968}, region: {'top': 8, 'left': 0, 'width': 1920, 'height': 1032}
+2025-07-28 11:48:01,984 - INFO - Önizleme thread'i zaten çalışıyor.
+2025-07-28 11:48:02,027 - INFO - Yeni kayıt hedefi seçildi: Settings - Region: {'top': -8, 'left': -8, 'width': 1936, 'height': 1048}
+2025-07-28 11:48:02,084 - INFO - Ana önizleme güncellendi: {'type': 'window', 'hwnd': 525654}, region: {'top': -8, 'left': -8, 'width': 1936, 'height': 1048}
+2025-07-28 11:48:02,184 - INFO - Önizleme thread'i zaten çalışıyor.
+2025-07-28 11:48:02,309 - INFO - Yeni kayıt hedefi seçildi: Windows Input Experience - Region: {'top': 0, 'left': 0, 'width': 1920, 'height': 1080}
+2025-07-28 11:48:02,364 - INFO - Ana önizleme güncellendi: {'type': 'window', 'hwnd': 197230}, region: {'top': 0, 'left': 0, 'width': 1920, 'height': 1080}
+2025-07-28 11:48:02,465 - INFO - Önizleme thread'i zaten çalışıyor.
+2025-07-28 11:48:02,650 - INFO - Yeni kayıt hedefi seçildi: Settings - Region: {'top': -8, 'left': -8, 'width': 1936, 'height': 1048}
+2025-07-28 11:48:02,702 - INFO - Ana önizleme güncellendi: {'type': 'window', 'hwnd': 525654}, region: {'top': -8, 'left': -8, 'width': 1936, 'height': 1048}
+2025-07-28 11:48:02,803 - INFO - Önizleme thread'i zaten çalışıyor.
+2025-07-28 11:48:03,038 - INFO - Yeni kayıt hedefi seçildi: Settings - Region: {'top': 8, 'left': 0, 'width': 1920, 'height': 1032}
+2025-07-28 11:48:03,093 - INFO - Ana önizleme güncellendi: {'type': 'window', 'hwnd': 197968}, region: {'top': 8, 'left': 0, 'width': 1920, 'height': 1032}
+2025-07-28 11:48:03,194 - INFO - Önizleme thread'i zaten çalışıyor.
+2025-07-28 11:48:03,513 - INFO - Yeni kayıt hedefi seçildi: Steam - Region: {'top': 1, 'left': 0, 'width': 1916, 'height': 1031}
+2025-07-28 11:48:03,575 - INFO - Ana önizleme güncellendi: {'type': 'window', 'hwnd': 2034026}, region: {'top': 1, 'left': 0, 'width': 1916, 'height': 1031}
+2025-07-28 11:48:03,675 - INFO - Önizleme thread'i zaten çalışıyor.
+2025-07-28 11:48:03,895 - INFO - Yeni kayıt hedefi seçildi: Settings - Region: {'top': -8, 'left': -8, 'width': 1936, 'height': 1048}
+2025-07-28 11:48:03,951 - INFO - Ana önizleme güncellendi: {'type': 'window', 'hwnd': 525654}, region: {'top': -8, 'left': -8, 'width': 1936, 'height': 1048}
+2025-07-28 11:48:04,052 - INFO - Önizleme thread'i zaten çalışıyor.
+2025-07-28 11:48:04,221 - INFO - Yeni kayıt hedefi seçildi: Mount & Blade II: Bannerlord - Region: {'top': 215, 'left': 537, 'width': 842, 'height': 601}
+2025-07-28 11:48:04,278 - INFO - Ana önizleme güncellendi: {'type': 'window', 'hwnd': 461702}, region: {'top': 215, 'left': 537, 'width': 842, 'height': 601}
+2025-07-28 11:48:04,378 - INFO - Önizleme thread'i zaten çalışıyor.
+2025-07-28 11:48:09,641 - INFO - Yeni kayıt hedefi seçildi: (34) Men of Honor (2000) | The 12 steps represent ... - Region: {'top': -8, 'left': -8, 'width': 1936, 'height': 1048}
+2025-07-28 11:48:09,695 - INFO - Ana önizleme güncellendi: {'type': 'window', 'hwnd': 132066}, region: {'top': -8, 'left': -8, 'width': 1936, 'height': 1048}
+2025-07-28 11:48:09,796 - INFO - Önizleme thread'i zaten çalışıyor.
+2025-07-28 11:48:10,241 - INFO - Yeni kayıt hedefi seçildi: (34) Men of Honor (2000) | The 12 steps represent ... - Region: {'top': -8, 'left': -8, 'width': 1936, 'height': 1048}
+2025-07-28 11:48:10,295 - INFO - Ana önizleme güncellendi: {'type': 'window', 'hwnd': 132066}, region: {'top': -8, 'left': -8, 'width': 1936, 'height': 1048}
+2025-07-28 11:48:10,396 - INFO - Önizleme thread'i zaten çalışıyor.
+2025-07-28 11:48:10,579 - INFO - Yeni kayıt hedefi seçildi: Mount & Blade II: Bannerlord - Region: {'top': 215, 'left': 537, 'width': 842, 'height': 601}
+2025-07-28 11:48:10,634 - INFO - Ana önizleme güncellendi: {'type': 'window', 'hwnd': 461702}, region: {'top': 215, 'left': 537, 'width': 842, 'height': 601}
+2025-07-28 11:48:10,735 - INFO - Önizleme thread'i zaten çalışıyor.
+2025-07-28 11:48:11,214 - INFO - Yeni kayıt hedefi seçildi: İstanbul Uni Ders Notlarım - Windsurf - ScreenReco... - Region: {'top': -8, 'left': -8, 'width': 1936, 'height': 1048}
+2025-07-28 11:48:11,270 - INFO - Ana önizleme güncellendi: {'type': 'window', 'hwnd': 197464}, region: {'top': -8, 'left': -8, 'width': 1936, 'height': 1048}
+2025-07-28 11:48:11,370 - INFO - Önizleme thread'i zaten çalışıyor.
+2025-07-28 11:48:12,611 - INFO - Yeni kayıt hedefi seçildi: Monitor 1 - Region: {'left': 0, 'top': 0, 'width': 1920, 'height': 1080}
+2025-07-28 11:48:12,665 - INFO - Ana önizleme güncellendi: {'type': 'monitor', 'index': 1}, region: {'left': 0, 'top': 0, 'width': 1920, 'height': 1080}
+2025-07-28 11:48:12,766 - INFO - Önizleme thread'i zaten çalışıyor.
+2025-07-28 11:48:20,389 - INFO - Kayıt FPS ayarı: 30
+2025-07-28 11:48:20,395 - INFO - Video kaydı başlatılıyor: C:\Users\risva\EkranKayitlari\ekran_kaydi_20250728_114820.mp4
+2025-07-28 11:48:20,399 - INFO - Ses kaydı başlatılıyor: C:\Users\risva\EkranKayitlari\ses_kaydi_20250728_114820.wav
+2025-07-28 11:48:20,399 - INFO - Ses kaydı başlatılıyor: C:\Users\risva\EkranKayitlari\ses_kaydi_20250728_114820.wav (Cihaz Indeksi: 0)
+2025-07-28 11:48:20,406 - INFO - Video yazıcısı başarıyla açıldı.
+2025-07-28 11:48:31,405 - INFO - Kayıt durdurma sinyali gönderildi.
+2025-07-28 11:48:31,405 - INFO - Video kayıt thread'inin bitmesi bekleniyor...
+2025-07-28 11:48:31,420 - INFO - Ses akışı durduruldu.
+2025-07-28 11:48:31,436 - INFO - Ses dosyası kaydedildi: C:\Users\risva\EkranKayitlari\ses_kaydi_20250728_114820.wav
+2025-07-28 11:48:31,437 - INFO - Ses kayıt thread'i sonlandı.
+2025-07-28 11:48:31,462 - INFO - Video yazıcısı serbest bırakıldı.
+2025-07-28 11:48:31,463 - INFO - Kayıt thread'i sonlandı.
+2025-07-28 11:48:31,464 - INFO - Video kayıt thread'i başarıyla sonlandı.
+2025-07-28 11:48:31,465 - INFO - Video ve ses dosyaları birleştiriliyor...
+2025-07-28 11:48:31,465 - INFO - FFmpeg komutu çalıştırılıyor: ffmpeg -i C:\Users\risva\EkranKayitlari\ekran_kaydi_20250728_114820.mp4 -i C:\Users\risva\EkranKayitlari\ses_kaydi_20250728_114820.wav -c:v copy -c:a aac -strict experimental -y C:\Users\risva\EkranKayitlari\ekran_kaydi_20250728_114820_temp.mp4
+2025-07-28 11:48:31,486 - ERROR - FFmpeg bulunamadı. Lütfen FFmpeg'in sistem PATH'inde olduğundan emin olun.
+2025-07-28 11:49:25,527 - INFO - Uygulama kapatılıyor...
+2025-07-28 11:49:25,527 - INFO - PyAudio terminate edildi.
+2025-07-28 11:49:25,585 - INFO - Uygulama başarıyla kapatıldı.
+2025-07-28 11:50:24,032 - INFO - Arka plan görseli yüklendi: d:\İstanbul Uni Ders Notlarım\assets\images\background.png
+2025-07-28 11:50:24,592 - INFO - Bulunan mikrofonlar: ['Microsoft Sound Mapper - Input', 'SteelSeries Sonar - Microphone ', 'Mikrofon (2- Arctis 7P+)']
+2025-07-28 11:50:24,653 - INFO - Tespit edilen monitor sayısı: 1
+2025-07-28 11:50:24,654 - INFO - Tespit edilen pencere sayısı: 8
+2025-07-28 11:50:24,765 - INFO - Önizleme thread'i başlatıldı.
+2025-07-28 11:50:58,038 - INFO - Uygulama kapatılıyor...
+2025-07-28 11:50:58,038 - INFO - PyAudio terminate edildi.
+2025-07-28 11:50:58,092 - INFO - Uygulama başarıyla kapatıldı.
+2025-07-28 11:51:00,638 - INFO - Arka plan görseli yüklendi: d:\İstanbul Uni Ders Notlarım\assets\images\background.png
+2025-07-28 11:51:01,209 - INFO - Bulunan mikrofonlar: ['Microsoft Sound Mapper - Input', 'SteelSeries Sonar - Microphone ', 'Mikrofon (2- Arctis 7P+)']
+2025-07-28 11:51:01,272 - INFO - Tespit edilen monitor sayısı: 1
+2025-07-28 11:51:01,273 - INFO - Tespit edilen pencere sayısı: 8
+2025-07-28 11:51:01,384 - INFO - Önizleme thread'i başlatıldı.
+2025-07-28 11:51:03,087 - INFO - Uygulama kapatılıyor...
+2025-07-28 11:51:03,087 - INFO - PyAudio terminate edildi.
+2025-07-28 11:51:03,148 - INFO - Uygulama başarıyla kapatıldı.
+2025-07-28 11:53:32,592 - INFO - Arka plan görseli yüklendi: d:\İstanbul Uni Ders Notlarım\assets\images\background.png
+2025-07-28 11:53:33,151 - INFO - Bulunan mikrofonlar: ['Microsoft Sound Mapper - Input', 'SteelSeries Sonar - Microphone ', 'Mikrofon (2- Arctis 7P+)']
+2025-07-28 11:53:33,214 - INFO - Tespit edilen monitor sayısı: 1
+2025-07-28 11:53:33,215 - INFO - Tespit edilen pencere sayısı: 8
+2025-07-28 11:53:33,324 - INFO - Önizleme thread'i başlatıldı.
+2025-07-28 11:56:00,586 - INFO - Uygulama kapatılıyor...
+2025-07-28 11:56:00,587 - INFO - PyAudio terminate edildi.
+2025-07-28 11:56:00,642 - INFO - Uygulama başarıyla kapatıldı.
+2025-07-28 11:56:29,510 - INFO - Arka plan görseli yüklendi: d:\İstanbul Uni Ders Notlarım\assets\images\background.png
+2025-07-28 11:56:30,076 - INFO - Bulunan mikrofonlar: ['Microsoft Sound Mapper - Input', 'SteelSeries Sonar - Microphone ', 'Mikrofon (2- Arctis 7P+)']
+2025-07-28 11:56:30,137 - INFO - Tespit edilen monitor sayısı: 1
+2025-07-28 11:56:30,138 - INFO - Tespit edilen pencere sayısı: 8
+2025-07-28 11:56:30,249 - INFO - Önizleme thread'i başlatıldı.
+2025-07-28 11:57:02,777 - INFO - Yeni kayıt hedefi seçildi: Program Manager - Region: {'top': 0, 'left': 0, 'width': 1920, 'height': 1080}
+2025-07-28 11:57:02,829 - INFO - Ana önizleme güncellendi: {'type': 'window', 'hwnd': 65778}, region: {'top': 0, 'left': 0, 'width': 1920, 'height': 1080}
+2025-07-28 11:57:02,930 - INFO - Önizleme thread'i zaten çalışıyor.
+2025-07-28 11:57:03,660 - INFO - Yeni kayıt hedefi seçildi: Windows Input Experience - Region: {'top': 0, 'left': 0, 'width': 1920, 'height': 1080}
+2025-07-28 11:57:03,713 - INFO - Ana önizleme güncellendi: {'type': 'window', 'hwnd': 197230}, region: {'top': 0, 'left': 0, 'width': 1920, 'height': 1080}
+2025-07-28 11:57:03,813 - INFO - Önizleme thread'i zaten çalışıyor.
+2025-07-28 11:57:04,385 - INFO - Yeni kayıt hedefi seçildi: Settings - Region: {'top': -8, 'left': -8, 'width': 1936, 'height': 1048}
+2025-07-28 11:57:04,437 - INFO - Ana önizleme güncellendi: {'type': 'window', 'hwnd': 525654}, region: {'top': -8, 'left': -8, 'width': 1936, 'height': 1048}
+2025-07-28 11:57:04,537 - INFO - Önizleme thread'i zaten çalışıyor.
+2025-07-28 11:57:06,051 - INFO - Yeni kayıt hedefi seçildi: Monitor 1 - Region: {'left': 0, 'top': 0, 'width': 1920, 'height': 1080}
+2025-07-28 11:57:06,110 - INFO - Ana önizleme güncellendi: {'type': 'monitor', 'index': 1}, region: {'left': 0, 'top': 0, 'width': 1920, 'height': 1080}
+2025-07-28 11:57:06,211 - INFO - Önizleme thread'i zaten çalışıyor.
+2025-07-28 11:58:16,027 - INFO - Uygulama kapatılıyor...
+2025-07-28 11:58:16,027 - INFO - PyAudio terminate edildi.
+2025-07-28 11:58:16,082 - INFO - Uygulama başarıyla kapatıldı.
+2025-07-28 12:02:42,887 - INFO - Arka plan görseli yüklendi: d:\İstanbul Uni Ders Notlarım\assets\images\background.png
+2025-07-28 12:02:43,472 - INFO - Bulunan mikrofonlar: ['Microsoft Sound Mapper - Input', 'SteelSeries Sonar - Microphone ', 'Mikrofon (2- Arctis 7P+)']
+2025-07-28 12:02:43,525 - INFO - Tespit edilen monitor sayısı: 1
+2025-07-28 12:02:43,526 - INFO - Tespit edilen pencere sayısı: 8
+2025-07-28 12:02:43,537 - ERROR - Seçim UI'si güncellenirken hata oluştu: name 'icon_label' is not defined
+2025-07-28 12:02:43,538 - INFO - Önizleme thread'i başlatıldı.
+2025-07-28 12:02:45,557 - INFO - Yeni kayıt hedefi seçildi: Monitor 1 - Region: {'left': 0, 'top': 0, 'width': 1920, 'height': 1080}
+2025-07-28 12:02:45,560 - ERROR - Seçim UI'si güncellenirken hata oluştu: name 'icon_label' is not defined
+2025-07-28 12:02:45,560 - INFO - Ana önizleme güncellendi: {'type': 'monitor', 'index': 1}, region: {'left': 0, 'top': 0, 'width': 1920, 'height': 1080}
+2025-07-28 12:02:45,661 - INFO - Önizleme thread'i zaten çalışıyor.
+2025-07-28 12:02:46,842 - INFO - Yeni kayıt hedefi seçildi: Monitor 1 - Region: {'left': 0, 'top': 0, 'width': 1920, 'height': 1080}
+2025-07-28 12:02:46,848 - ERROR - Seçim UI'si güncellenirken hata oluştu: name 'icon_label' is not defined
+2025-07-28 12:02:46,848 - INFO - Ana önizleme güncellendi: {'type': 'monitor', 'index': 1}, region: {'left': 0, 'top': 0, 'width': 1920, 'height': 1080}
+2025-07-28 12:02:46,948 - INFO - Önizleme thread'i zaten çalışıyor.
+2025-07-28 12:02:48,230 - INFO - Tespit edilen monitor sayısı: 1
+2025-07-28 12:02:48,231 - INFO - Tespit edilen pencere sayısı: 8
+2025-07-28 12:02:48,235 - ERROR - Seçim UI'si güncellenirken hata oluştu: name 'icon_label' is not defined
+2025-07-28 12:02:48,235 - INFO - Kayıt hedefleri yenilendi.
+2025-07-28 12:05:40,226 - INFO - Arka plan görseli yüklendi: d:\İstanbul Uni Ders Notlarım\assets\images\background.png
+2025-07-28 12:05:40,807 - INFO - Bulunan mikrofonlar: ['Microsoft Sound Mapper - Input', 'SteelSeries Sonar - Microphone ', 'Mikrofon (2- Arctis 7P+)']
+2025-07-28 12:05:40,857 - INFO - Tespit edilen monitor sayısı: 1
+2025-07-28 12:05:40,858 - INFO - Tespit edilen pencere sayısı: 8
+2025-07-28 12:05:40,967 - INFO - Önizleme thread'i başlatıldı.
+2025-07-28 12:05:44,174 - INFO - Yeni kayıt hedefi seçildi: (34) O ses neydi? #shorts #rickandmorty - YouTube ... - Region: {'top': -8, 'left': -8, 'width': 1936, 'height': 1048}
+2025-07-28 12:05:44,229 - INFO - Ana önizleme güncellendi: {'type': 'window', 'hwnd': 132066}, region: {'top': -8, 'left': -8, 'width': 1936, 'height': 1048}
+2025-07-28 12:05:44,330 - INFO - Önizleme thread'i zaten çalışıyor.
+2025-07-28 12:05:44,898 - INFO - Yeni kayıt hedefi seçildi: ScreenRecord.py - İstanbul Uni Ders Notlarım - Vis... - Region: {'top': -8, 'left': -8, 'width': 1936, 'height': 1048}
+2025-07-28 12:05:44,955 - INFO - Ana önizleme güncellendi: {'type': 'window', 'hwnd': 264798}, region: {'top': -8, 'left': -8, 'width': 1936, 'height': 1048}
+2025-07-28 12:05:45,056 - INFO - Önizleme thread'i zaten çalışıyor.
+2025-07-28 12:05:45,760 - INFO - Yeni kayıt hedefi seçildi: Steam - Region: {'top': 1, 'left': 0, 'width': 1916, 'height': 1031}
+2025-07-28 12:05:45,821 - INFO - Ana önizleme güncellendi: {'type': 'window', 'hwnd': 2034026}, region: {'top': 1, 'left': 0, 'width': 1916, 'height': 1031}
+2025-07-28 12:05:45,921 - INFO - Önizleme thread'i zaten çalışıyor.
+2025-07-28 12:05:46,693 - INFO - Yeni kayıt hedefi seçildi: Settings - Region: {'top': 8, 'left': 0, 'width': 1920, 'height': 1032}
+2025-07-28 12:05:46,749 - INFO - Ana önizleme güncellendi: {'type': 'window', 'hwnd': 197968}, region: {'top': 8, 'left': 0, 'width': 1920, 'height': 1032}
+2025-07-28 12:05:46,849 - INFO - Önizleme thread'i zaten çalışıyor.
+2025-07-28 12:05:47,048 - INFO - Yeni kayıt hedefi seçildi: Windows Input Experience - Region: {'top': 0, 'left': 0, 'width': 1920, 'height': 1080}
+2025-07-28 12:05:47,105 - INFO - Ana önizleme güncellendi: {'type': 'window', 'hwnd': 197230}, region: {'top': 0, 'left': 0, 'width': 1920, 'height': 1080}
+2025-07-28 12:05:47,206 - INFO - Önizleme thread'i zaten çalışıyor.
+2025-07-28 12:05:47,431 - INFO - Yeni kayıt hedefi seçildi: Program Manager - Region: {'top': 0, 'left': 0, 'width': 1920, 'height': 1080}
+2025-07-28 12:05:47,485 - INFO - Ana önizleme güncellendi: {'type': 'window', 'hwnd': 65778}, region: {'top': 0, 'left': 0, 'width': 1920, 'height': 1080}
+2025-07-28 12:05:47,586 - INFO - Önizleme thread'i zaten çalışıyor.
+2025-07-28 12:05:47,676 - INFO - Yeni kayıt hedefi seçildi: Program Manager - Region: {'top': 0, 'left': 0, 'width': 1920, 'height': 1080}
+2025-07-28 12:05:47,732 - INFO - Ana önizleme güncellendi: {'type': 'window', 'hwnd': 65778}, region: {'top': 0, 'left': 0, 'width': 1920, 'height': 1080}
+2025-07-28 12:05:47,833 - INFO - Önizleme thread'i zaten çalışıyor.
+2025-07-28 12:05:48,439 - INFO - Yeni kayıt hedefi seçildi: Monitor 1 - Region: {'left': 0, 'top': 0, 'width': 1920, 'height': 1080}
+2025-07-28 12:05:48,489 - INFO - Ana önizleme güncellendi: {'type': 'monitor', 'index': 1}, region: {'left': 0, 'top': 0, 'width': 1920, 'height': 1080}
+2025-07-28 12:05:48,590 - INFO - Önizleme thread'i zaten çalışıyor.
+2025-07-28 12:09:31,588 - INFO - Arka plan görseli yüklendi: d:\İstanbul Uni Ders Notlarım\assets\images\background.png
+2025-07-28 12:09:32,081 - INFO - Bulunan mikrofonlar: ['Microsoft Sound Mapper - Input', 'SteelSeries Sonar - Microphone ', 'Mikrofon (2- Arctis 7P+)']
+2025-07-28 12:09:32,160 - ERROR - ScreenRecorderApp başlatılırken hata oluştu: 'ScreenRecorderApp' object has no attribute '_update_available_targets'
+2025-07-28 12:09:54,854 - INFO - Uygulama kapatılıyor...
+2025-07-28 12:09:54,854 - INFO - PyAudio terminate edildi.
+2025-07-28 12:09:54,915 - INFO - Uygulama başarıyla kapatıldı.
+2025-07-28 12:09:57,213 - INFO - Arka plan görseli yüklendi: d:\İstanbul Uni Ders Notlarım\assets\images\background.png
+2025-07-28 12:09:57,689 - INFO - Bulunan mikrofonlar: ['Microsoft Sound Mapper - Input', 'SteelSeries Sonar - Microphone ', 'Mikrofon (2- Arctis 7P+)']
+2025-07-28 12:09:57,759 - ERROR - ScreenRecorderApp başlatılırken hata oluştu: 'ScreenRecorderApp' object has no attribute '_update_available_targets'
+2025-07-28 12:10:09,235 - INFO - Arka plan görseli yüklendi: d:\İstanbul Uni Ders Notlarım\assets\images\background.png
+2025-07-28 12:10:09,693 - INFO - Bulunan mikrofonlar: ['Microsoft Sound Mapper - Input', 'SteelSeries Sonar - Microphone ', 'Mikrofon (2- Arctis 7P+)']
+2025-07-28 12:10:09,761 - ERROR - ScreenRecorderApp başlatılırken hata oluştu: 'ScreenRecorderApp' object has no attribute '_update_available_targets'
+2025-07-28 12:10:26,097 - INFO - Arka plan görseli yüklendi: d:\İstanbul Uni Ders Notlarım\assets\images\background.png
+2025-07-28 12:10:26,691 - INFO - Bulunan mikrofonlar: ['Microsoft Sound Mapper - Input', 'SteelSeries Sonar - Microphone ', 'Mikrofon (2- Arctis 7P+)']
+2025-07-28 12:10:26,742 - INFO - Tespit edilen monitor sayısı: 1
+2025-07-28 12:10:26,743 - INFO - Tespit edilen pencere sayısı: 8
+2025-07-28 12:10:26,866 - INFO - Önizleme thread'i başlatıldı.
+2025-07-28 12:10:28,880 - INFO - Uygulama kapatılıyor...
+2025-07-28 12:10:28,881 - INFO - PyAudio terminate edildi.
+2025-07-28 12:10:28,935 - INFO - Uygulama başarıyla kapatıldı.

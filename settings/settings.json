@@ -1,0 +1,10 @@
+{
+    "excluded_apps": [
+        "chrome.exe"
+    ],
+    "shortcut_record": "F9",
+    "shortcut_mute": "F8",
+    "shortcut_screen": "F7",
+    "record_duration": 0,
+    "format": "mp4"
+}
