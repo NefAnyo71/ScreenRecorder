@@ -19,7 +19,7 @@ As this project is currently in active development, only the latest version is s
 
 If you discover a security vulnerability, we kindly ask you **not to open a public issue**. Instead, please report it directly and discreetly by sending an email to:
 
-📧 **nefanyo71@gmail.com**
+📧 **arifkerem71@gmail.com**
 
 Please include:
 
