@@ -1,56 +1,49 @@
-# 🔐 Security Policy for Better Than OBS
+# 🔐 Security Policy
 
-Thank you for your interest in helping improve the security of **Better Than OBS**. This document outlines how to report security issues and our current stance on security practices.
+## Supported Versions
 
----
+This project is in early development, so formal versioning is not yet in place. Security-related issues are still taken seriously even at this stage.
 
-## 🛡 Supported Versions
-
-As this project is currently in active development, only the latest version is supported in terms of security updates.
-
-| Version         | Supported     |
-|----------------|---------------|
-| Latest (`main`) | ✅ Yes         |
-| Old versions    | ❌ No          |
+| Version | Supported          |
+|---------|--------------------|
+| Latest  | ✅ Yes              |
+| Older   | ❌ Not supported    |
 
 ---
 
-## 📣 Reporting a Vulnerability
+## 🔎 Reporting a Vulnerability
 
-If you discover a security vulnerability, we kindly ask you **not to open a public issue**. Instead, please report it directly and discreetly by sending an email to:
+If you discover a security vulnerability in **Better Than OBS**, please **do not open a public issue**.
 
-📧 **arifkerem71@gmail.com**
+Instead, contact me directly and privately so I can investigate and patch the issue as soon as possible.
 
-Please include:
+📧 **Preferred Contact**:  
+[YourEmail@example.com] *(replace this with your actual email address or preferred method)*
 
-- A clear description of the issue
-- Steps to reproduce (if applicable)
-- The potential impact
-- Suggestions or fixes (if known)
+If the vulnerability affects audio privacy, screen content, or application permissions, please describe it in as much detail as possible (steps to reproduce, OS version, etc.).
 
 ---
 
-## 🔐 Security Features Planned
+## 🛡 Philosophy
 
-The following security-related features are either under development or planned:
+This project was built with simplicity and privacy in mind:
 
-- 🔒 Secure log handling (to avoid leaking sensitive data)
-- 🔑 Encrypted feedback system integration (e.g., via Firebase or similar)
-- 🧪 Input sanitization and validation (to prevent injection or misuse)
-- 🧠 Minimal permissions for future cloud integrations
+- No cloud syncing or hidden background services  
+- No virtual audio routing or invasive system hooks  
+- No unnecessary permissions or telemetry  
+- Fully offline and open source
 
----
-
-## ⚠️ Known Issues
-
-As of now, the project is in early development. There may be unintentional flaws or incomplete implementations. **Use with caution in production environments**.
+**You are in control of what gets recorded — and what doesn't.**
 
 ---
 
-## 🙏 Acknowledgements
+## 🔧 Security Goals (Planned)
 
-Security is a continuous process. If you help report or fix a vulnerability, you'll be properly credited in the project unless you wish to remain anonymous.
+- [ ] Add sandboxing or permission warnings for sensitive actions
+- [ ] Add optional privacy prompts (e.g. “Do you want to record app audio?”)
+- [ ] Make it easy to *exclude* apps like Spotify from recording
+- [ ] Transparent handling of all data, with no external tracking
 
 ---
 
-Thank you for helping make **Better Than OBS** safer for everyone!
+Thank you for helping make Better Than OBS safer and more reliable for everyone!
