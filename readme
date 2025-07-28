@@ -1,0 +1,37 @@
+# Better Than OBS 🎥
+
+**Better Than OBS** is a screen recording application inspired by the popular OBS Studio, but built with a personal vision to include improvements and new features where I felt OBS fell short.
+
+## 🚀 About the Project
+
+I took inspiration from OBS Studio, but I’ve added my own ideas and enhancements in areas I believed needed improvement. That’s why I chose the name **Better Than OBS** — a bit bold, but meant in good humor.
+
+This project is still under development, and some parts are incomplete. I'm aware of the current bugs and missing features. In particular, the logging and debugging process took a lot of time, but I believe it helped build a more solid foundation.
+
+## 🔧 Planned Features
+
+- [x] Screen recording
+- [x] Simple user interface
+- [ ] Advanced debugging and logging system
+- [ ] Feedback submission feature
+- [ ] Backend integration with Firebase or a similar service for collecting feedback/help requests
+- [ ] Dual "Help" section:
+  - 1. A traditional help section to guide users
+  - 2. A feedback system that will connect to a backend service in the future
+
+## ❗️Notes
+
+- You may currently see two similar "Help" options in the interface — this is intentional. One is planned to be a traditional guide, and the other will serve as a feedback tool connected to a backend system.
+- Since the project is in **active development**, some parts of the code may be placeholders or incomplete.
+
+## 💡 Want to Contribute?
+
+If you'd like to contribute to the project, feel free to submit a pull request! Even reporting bugs or giving suggestions would be greatly appreciated.
+
+## 📌 Installation
+
+Installation instructions will be added soon. For now, you can clone or download the source code and run it manually.
+
+---
+
+Thanks for checking it out!
